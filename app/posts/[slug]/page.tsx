@@ -4,6 +4,12 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
+function withBasePath(src: string): string {
+  return src.startsWith("/") ? `${basePath}${src}` : src;
+}
+
 export async function generateStaticParams() {
   return getAllSlugs().map((slug) => ({ slug }));
 }
@@ -21,7 +27,7 @@ export async function generateMetadata({
     title: post.title || "Post",
     description: post.excerpt || undefined,
     openGraph: post.coverImage
-      ? { images: [{ url: post.coverImage }] }
+      ? { images: [{ url: withBasePath(post.coverImage) }] }
       : undefined,
   };
 }
@@ -71,7 +77,7 @@ export default async function PostPage({
       {post.coverImage && (
         // eslint-disable-next-line @next/next/no-img-element
         <img
-          src={post.coverImage}
+          src={withBasePath(post.coverImage)}
           alt={post.title}
           className="w-full rounded object-cover mb-8 max-h-80"
         />

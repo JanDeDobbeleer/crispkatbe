@@ -53,9 +53,16 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     .use(remarkHtml, { sanitize: false }) // allow raw iframes
     .process(content);
 
+  // Prefix local image paths with the base path so they resolve correctly
+  // when the site is deployed to a GitHub Pages sub-path (e.g. /crispkatbe/).
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+  const html = basePath
+    ? processed.toString().replace(/(<img\b[^>]*\ssrc=)(["'])(\/)/g, `$1$2${basePath}/`)
+    : processed.toString();
+
   return {
     ...parsePostMeta(slug, data),
-    content: processed.toString(),
+    content: html,
   };
 }
 
