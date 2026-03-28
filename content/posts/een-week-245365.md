@@ -1,0 +1,11 @@
+---
+title: "Een week - 245/365"
+date: "2014-09-02"
+author: "admin"
+categories: ["Parenthood", "Personal", "project365"]
+tags: ["baby", "bevalling", "keizersnede"]
+excerpt: ""
+coverImage: "https://4d1hnw.dm2301.livefilestore.com/y2pd68cGhjzkQQ6Oh3CTwKAwveFQwVCD4NQhLmMmbmQuMymGE1VBRgZyV8ADSzGf2ohJMo6hxRwjDALSIVoq_Q3o3CQqGSeSJAG2A3qxsDCu0k/6tag_020914-195423.jpg?psid=1"
+---
+
+Een week geleden trok ik met een klein hartje richting het AZ voor een geplande keizersnede. Ik wist niet goed aan wat mij te verwachten. Een hele ochtend nuchter blijven en om 13u aanmelden, dan aan de monitor en geprepareerd worden om richting operatiekamer te gaan. Ter plekke kreeg ik dan een epidurale om u tegen te zeggen, floppy legs werden op de tafel gelegd. Mijn buik verstopt achter doeken. Armen vastgemaakt met velcro. Mijn hart sloeg even over. Paniek. Ik had me de geboorte van nr 2 wel wat anders voorgesteld. Het enige waar ik nog controle over had was mijn ademhaling. Van zodra Jan naast me stond en de gyn de operatie startte ging het gelukkig wat beter. "Kalm, rustig en ontspannen." zei ik keer op keer in mijn hoofd terwijl ik voelde hoe mijn buik vakkundig overhoop gehaald werd. En om twintig voor vier lieten ze een miniscuul mevrouwtje boven de groene lakens zweven. And off they went. Man en kind gaan meteen naar boven naar de kinderarts en moeder de vrouw wordt laagje per laagje weer opgelapt en dicht gemaakt. Ondertussen gesprekken over winterbanden en kribbes. Everyday life van de mensen voor wie zo een keizersnede gewoon een van de taken uit hun dag is. Trekken en duwen om alles weer op zijn plaats te krijgen. Minuut na minuut begon ik feller te beven van de ontlading. Het was achter de rug, de zware zwangerschap zat er op en ik had een gezonde dochter in de plaats gekregen. Na een halfuurtje op de recovery werd ook ik in mijn bed naar boven gerold. En daar lag een klein hummeltje op me te wachten. Toen ze dicht bij mij lag keerde de rust weer. We made it. Verbazingwekkend hoe snel je die rollercoaster achter je laat en je focus shift op je kleintje. En hop, we zijn een week verder![](https://4d1hnw.dm2301.livefilestore.com/y2pd68cGhjzkQQ6Oh3CTwKAwveFQwVCD4NQhLmMmbmQuMymGE1VBRgZyV8ADSzGf2ohJMo6hxRwjDALSIVoq_Q3o3CQqGSeSJAG2A3qxsDCu0k/6tag_020914-195423.jpg?psid=1).

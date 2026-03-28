@@ -1,0 +1,11 @@
+---
+title: "Boedapest"
+date: "2011-08-05"
+author: "admin"
+categories: ["Personal", "Travel"]
+tags: ["boedapest", "Budapest", "design", "food", "shops"]
+excerpt: ""
+coverImage: "/images/blog/1311525916249-150x150.jpg"
+---
+
+**Food** [![](/images/blog/1311525916249-150x150.jpg)](http://www.crispkat.be/?attachment_id=604) [_M Etterem_](http://mrestaurant.blogspot.com/) Kertész utca 48 Een klein Hongaars-Frans restaurant. Warm en gezellig ingericht, met een beperkte kaart met eenvoudige gerechten, maar overheerlijke desserts. [_Shalimar_](http://www.shalimar.hu/english.htm) Dob utca 50 Een van de vele kelderrestaurants in Boedapest. Een zeer uitgebreide kaart met vlees- vis en vegetarische gerechten. Chicken Jalfrezi FTW! _[Hummus bar](http://www.hummusbar.hu/cms/index.php?lang=en)_ Verspreid over de hele stad vind je vele hummus bars. In deze snackbars kan je terecht voor een broodje fallafel, hummus en ander vegetarisch lekkers.   **Shops** [![](/images/blog/1311082634241-150x150.jpg)](http://www.crispkat.be/?attachment_id=605) _[Buborek](http://www.buborekbolt.hu)_ Batthyány utca 48 Kecskeméti utca 5 Een klein winkeltje waar ze massa's leuke spulletjes uit Hongarije hebben. Gaande van kaartjes van lokaal designtalent over buttons, boekjes, handtassen,... [![](http://4.bp.blogspot.com/-SpWi0S5Afz4/TbmNbifyUDI/AAAAAAAAATM/82puj-ySxRQ/s1600/Untitled-3.jpg "Fregoli")](http://fregolishop.blogspot.com/) _[Fregoli](http://fregolishop.blogspot.com/)_ Bástya utca 12 Veel spulletjes van Balkan Tango: portefeuilles, riemen,... gemaakt van binnenbanden van fietsen maar ook kleedjes en shirts van lokale designers. ![](http://microsites.lomography.com/stores/images/emblem_budapest.gif "Lomo") _[Lomography shop](http://microsites.lomography.com/stores/embassy-stores/budapest)_ Akácfa utca 51 For all you lomo lovers! ![](http://www.rododendronart.com/files/rododendron_logo.png "Rododendron") _[Rododendron](http://www.rododendronart.com/node/151)_ Semmelweis utca 19 Shirts, tassen, juweeltjes en ander moois + een heel mooie ruimte vol lomo foto's en toestellen!

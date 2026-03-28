@@ -1,0 +1,11 @@
+---
+title: "5 tips voor een leuk Lego-feestje"
+date: "2018-04-11"
+author: "crispkat"
+categories: ["Parenthood"]
+tags: ["Lego", "verjaardagsfeest"]
+excerpt: ""
+coverImage: "/images/blog/68670b3d-926f-42a4-a59a-52e2b2f029d3-2792-0000020a69e49a5e.jpg"
+---
+
+Van 5 naar 6 dat vierde Mats graag met een handvol vriendjes en in Legothema. Een paar tips voor Lego leuks en lekkers... **1>Bouw op 1 minuut een zo hoog mogelijke toren** Verdeel je groep feestvierders in groepjes van 2 of 3, geef elk een doos Lego of Duploblokken. Stopwatch klaar en start! Laat ze samen een zo hoog mogelijke toren bouwen. **2>Lego Minifig Bingo** Als je ons gezin een beetje kent, dan weet je dat we echt Legolovers zijn. We hebben aardig wat sets en leuke minifigs in huis. Ideaal om aan de slag te gaan voor een echte Lego Minifig Bingo. Mats en ik kozen samen een 40-tal figuurtjes, goed voor 8 bingokaarten. Van Batman tot Marge Simpson over Boba Fett en R2D2. En als beloning voor de winnaar een zakje Minifig. Misschien al een voorraadje indoen van de Party Series voor een volgend feestje?! ![](/images/blog/68670b3d-926f-42a4-a59a-52e2b2f029d3-2792-0000020a69e49a5e.jpg) **3>Match hoofd, lijfje en benen tot het juiste mannetje** Oh the horror der gedemonteerde mannetjes! Deze is niet voor gevoelige zieltjes. Haal een paar mannetjes uit elkaar en laat elk groepje zo snel mogelijk de mannetjes weer in elkaar puzzelen. Het is handig als je hiervoor herkenbare figuren neemt, genre Spiderman, Ironman of StarWars figuren. **4>It's a Lego cake!** Cake blijft oh zo lekker en makkelijk op een feestje. Beetje te simpel zeg je? Nee hoor!  Je vindt online siliconen bakvormen in Legotheme. Wij leenden de leuke vormen van Sheilatante Saar. Met de grote Legoman maakten we vanillecake. Wie mag zijn hoofd?!!! Op 5 minuten was hij helemaal verorberd ? ![](/images/blog/84c7822d-a816-4a62-a077-a210305a2803.jpg) **5>Sweet like chocolate** Kleine siliconen ijsvormpjes zijn dan weer ideaal voor homemade chocoladefiguurtjes. Je smelt gewoon wat een reep fondant en giet de gesmolten chocolade in de vorm. Een paar uurtjes afkoelen in de koelkast en hop, je tovert zo een heel leger lekkere minifigs om op te smullen. ![](/images/blog/img_6467.jpg) Vorig jaar piraten, dit jaar Lego, ik ben benieuwd welk thema volgend jaar uit de bus komt!

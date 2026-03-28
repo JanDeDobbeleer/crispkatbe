@@ -1,0 +1,815 @@
+
+<!DOCTYPE html>
+<html lang="nl" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<style>/* @see https://github.com/aFarkas/lazysizes#broken-image-symbol */.js img.lazyload:not([src]) { visibility: hidden; }/* @see https://github.com/aFarkas/lazysizes#automatically-setting-the-sizes-attribute */.js img.lazyloaded[data-sizes=auto] { display: block; width: 100%; }</style>
+<link rel="canonical" href="https://www.natuurpunt.be/het-grote-vogelweekend" />
+<script src="https://cdn.cookiehub.eu/c2/86d05f8a.js"></script>
+<script>document.addEventListener("DOMContentLoaded", function(event) {
+    var cpm = {};
+    window.cookiehub.load(cpm);
+  });</script>
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org); Commerce 3" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/natuurpunt/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Het Grote Vogelweekend | Natuurpunt</title>
+
+    <link rel="shortcut icon" href="themes/custom/natuurpunt/images/icon/favicon.ico"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/natuurpunt/images/icon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/themes/custom/natuurpunt/images/icon/android-chrome-192x192.png"
+          sizes="192x192">
+    <link rel="icon" type="image/png" href="/themes/custom/natuurpunt/images/icon/android-chrome-512x512.png"
+          sizes="512x512">
+    <link rel="icon" type="image/png" href="/themes/custom/natuurpunt/images/icon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/themes/custom/natuurpunt/images/icon/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/themes/custom/natuurpunt/images/icon/site.webmanifest">
+    <link rel="mask-icon" href="/themes/custom/natuurpunt/images/icon/safari-pinned-tab.svg">
+    <meta name="msapplication-config" content="/themes/custom/natuurpunt/images/icon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="apple-mobile-web-app-title" content="Het Grote Vogelweekend | Natuurpunt">
+    <meta name="application-name" content="Het Grote Vogelweekend | Natuurpunt">
+
+    <link rel="stylesheet" media="all" href="/modules/contrib/fac/css/fac.css?tci9gj" />
+<link rel="stylesheet" media="all" href="/modules/custom/natuurpunt_custom/assets/css/gin-custom.css?tci9gj" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?tci9gj" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/assets/vendor/normalize-css/normalize.css?tci9gj" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/normalize-fixes.css?tci9gj" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/messages.css?tci9gj" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/node.css?tci9gj" />
+<link rel="stylesheet" media="all" href="/themes/custom/natuurpunt/css/style.css?tci9gj" />
+<link rel="stylesheet" media="print" href="/themes/custom/natuurpunt/css/print.css?tci9gj" />
+<link rel="stylesheet" media="all" href="/themes/custom/natuurpunt/vendor/slick/slick/slick-theme.css?tci9gj" />
+<link rel="stylesheet" media="all" href="/themes/custom/natuurpunt/vendor/slick/slick/slick.css?tci9gj" />
+
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-WJ9B9CJ');</script>
+    <!-- End Google Tag Manager -->
+  </head>
+  <body class="layout-no-sidebars path-group node--first-sidebar no-js no-transition">
+  <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJ9B9CJ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Overslaan en naar de inhoud gaan
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div id="page"  class="page-wrapper group-wrapper group-wrapper--campaign group-id--4">
+      <section id="top" class="page-top-subsite">
+      <div class="container page-top-subsite__container">
+          <div id="block-natuurpunt-subsite-main-site-header" class="block block-natuurpunt-subsites block-subsite-main-site-header">
+  
+    
+      
+  <div class="main-site-wrapper">
+    <div class="main-site__menu">
+      <span>Een onderdeel van <strong><a href="/">Natuurpunt</a></strong></span>
+      
+                <ul class="menu menu--level-1">
+                    <li class="menu-item menu-item--collapsed">
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/natuurgebieden" data-drupal-link-system-path="node/15">Natuurgebieden</a>
+              </li>
+                <li class="menu-item">
+        <a href="/soorten/zoekresultaten" class="menu__main--species" data-drupal-link-system-path="node/6918">Soorten</a>
+              </li>
+                <li class="menu-item">
+        <a href="/agenda" class="menu__main--agenda" data-drupal-link-system-path="node/19">Agenda</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/dit-is-natuurpunt" class="menu__main--about" data-drupal-link-system-path="node/8">Over ons</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+    <div class="block__menu--user menu--account">
+      <div class="block block-natuurpunt-users block-user-menu">
+  
+    
+        <ul class="menu">
+          <li class="menu-item">
+        <a href="/user/0/personal" class="" title="Persoonlijke gegevens">Persoonlijke gegevens</a>
+      </li>
+          <li class="menu-item">
+        <a href="/user/0/membership" class="" title="Lidmaatschap">Lidmaatschap</a>
+      </li>
+          <li class="menu-item">
+        <a href="/user/0/magazines" class="" title="Magazines">Magazines</a>
+      </li>
+          <li class="menu-item">
+        <a href="/user/0/activities" class="" title="Activiteiten">Activiteiten</a>
+      </li>
+          <li class="menu-item">
+        <a href="/user/0/orders" class="" title="Bestellingen">Bestellingen</a>
+      </li>
+          <li class="menu-item">
+        <a href="/user/0/shop" class="" title="Natuurpunt winkel">Natuurpunt winkel</a>
+      </li>
+          <li class="menu-item">
+        <a href="/user/uitloggen?token=BIrIdPDAevOwq0DByNtK3HiekMqqtuM-JWITmfmD8jk" class="" title="Uitloggen">Uitloggen</a>
+      </li>
+      </ul>
+
+  </div>
+
+    </div>
+    <div class="main-site__login">
+              <button id="user-toggle" class="button__toggle user__toggle">
+          <div id="user-icon" class="user__icon user__icon--logged-out">
+            <a href=/user/login?destination><span>Inloggen</span></a>
+          </div>
+        </button>
+          </div>
+  </div>
+
+  </div>
+<div id="block-natuurpunt-subsite-header" class="block block-natuurpunt-subsites block-subsite-header">
+  
+    
+      
+      <div class="subsite__logo"><a href="/het-grote-vogelweekend">
+            <div class="field field--name-field-subsite-logo field--type-entity-reference field--label-hidden field__item"><article class="media media--type-svg-logo media--view-mode-subsite-logo">
+  
+      
+            <div class="field field--name-field-media-file field--type-file field--label-hidden field__item">  <img src=/sites/default/files/2024-11/Logo%20Vogelweekend%20campagnesite.svg />
+</div>
+      
+  </article>
+</div>
+      </a></div>
+    <div class="subsite__menu--main">
+    <div id="block-natuurpunt-subsite-main-menu--2" class="block__subsite--main-menu block block-group-content-menu block-group-content-menumain">
+  
+    
+      
+                <ul class="menu menu--level-1">
+                    <li class="menu-item">
+        <a href="/het-grote-vogelweekend/hoe-tel-je-vogels" data-drupal-link-system-path="node/3330">Hoe werkt het</a>
+              </li>
+                <li class="menu-item">
+        <a href="/het-grote-vogelweekend/tuinvogels-herkennen" data-drupal-link-system-path="node/3331">Herkennen</a>
+              </li>
+                <li class="menu-item">
+        <a href="/het-grote-vogelweekend/natuurinfo/tuintips/hoe-voeder-je-de-vogels-in-je-tuin" data-drupal-link-system-path="node/123">Voederen</a>
+              </li>
+                <li class="menu-item">
+        <a href="/het-grote-vogelweekend/de-vogeltelweek-voor-scholen-0" data-drupal-link-system-path="node/3333">Voor scholen</a>
+              </li>
+                <li class="menu-item">
+        <a href="/het-grote-vogelweekend/vragen-resultaten-en-contact" data-drupal-link-system-path="node/3332">Vragen</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.natuurpunt.be/word-lid-bij-natuurpunt?membership_origin_id=609">Word lid</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+
+  </div>
+  <div class="subsite__become-member">
+      </div>
+
+  </div>
+
+
+        <button id="mobile-toggle" class="button__toggle mobile__toggle" aria-label="menu" aria-expanded="false">
+          <div id="mobile-icon" class="mobile__icon">
+            <img class="hamburger-menu" alt="Open menu" src="/themes/custom/natuurpunt/images/hamburger.svg">
+            <img class="close-menu" alt="Close menu" src="/themes/custom/natuurpunt/images/close.svg">
+          </div>
+        </button>
+      </div>
+    </section>
+  
+      <section id="mobile" class="page-mobile">
+      <div class="container page-mobile__container">
+          <div id="block-natuurpunt-subsite-main-menu" class="block__subsite--main-menu block block-group-content-menu block-group-content-menumain">
+  
+    
+      
+                <ul class="menu menu--level-1">
+                    <li class="menu-item">
+        <a href="/het-grote-vogelweekend/hoe-tel-je-vogels" data-drupal-link-system-path="node/3330">Hoe werkt het</a>
+              </li>
+                <li class="menu-item">
+        <a href="/het-grote-vogelweekend/tuinvogels-herkennen" data-drupal-link-system-path="node/3331">Herkennen</a>
+              </li>
+                <li class="menu-item">
+        <a href="/het-grote-vogelweekend/natuurinfo/tuintips/hoe-voeder-je-de-vogels-in-je-tuin" data-drupal-link-system-path="node/123">Voederen</a>
+              </li>
+                <li class="menu-item">
+        <a href="/het-grote-vogelweekend/de-vogeltelweek-voor-scholen-0" data-drupal-link-system-path="node/3333">Voor scholen</a>
+              </li>
+                <li class="menu-item">
+        <a href="/het-grote-vogelweekend/vragen-resultaten-en-contact" data-drupal-link-system-path="node/3332">Vragen</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.natuurpunt.be/word-lid-bij-natuurpunt?membership_origin_id=609">Word lid</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+
+
+      </div>
+    </section>
+  
+  
+      <section id="content-above" class="page-content-above">
+      <div class="container content-above__container">
+          <div id="block-natuurpunt-header-warning" class="block__warning block block-natuurpunt-custom block-header-warning">
+  
+    
+      <div class="views-element-container"><div class="view view-warnings view-warnings--page_controller view-id-warnings view-display-id-page_controller js-view-dom-id-4a4b3fb3f143b45c35b0a9d9954af7fe9b5c7cb9f2fb650e3a7eb9069f141e27">
+  
+    
+      
+  
+          </div>
+</div>
+
+  </div>
+<div id="block-natuurpunt-breadcrumb" class="block__breadcrumb block block-system block-system-breadcrumb-block">
+  
+    
+      
+  </div>
+<div data-drupal-messages-fallback class="hidden"></div>
+
+
+      </div>
+    </section>
+  
+  <main id="main" class="page-main" role="main">
+    <a id="main-content" tabindex="-1"></a>
+    <section id="content" class="section section--content">
+      <div class="container page-main__container clearfix">
+        
+          
+          <div class="content content--content">
+              <div id="block-natuurpunt-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+
+
+  </div>
+<div id="block-natuurpunt-content" class="block block-system block-system-main-block">
+  
+    
+        
+<div class="group group--full group--campaign has-banner">
+  <div>
+    <div class="banner-wrapper">
+      
+            <div class="field field--name-field-subsite-banner field--type-entity-reference field--label-hidden field__item"><article class="media media--has-hover media--type-image media--view-mode-fixed-3-1-large" oncontextmenu="return false;">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Afbeelding</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/fixed_3_1_large/public/2025-11/vogelweekendbe_header_1416x472px.jpg?h=6112b006&amp;itok=LhdK9xd0" width="1416" height="472" alt="Het Grote Vogelweekend 2026" class="image-style-fixed-3-1-large" />
+
+
+</div>
+          </div>
+
+          <div class="media--caption">
+        
+            <div class="field field--name-field-media-author field--type-string field--label-hidden field__item">Vincent Lagrange</div>
+      
+      </div>
+      </article>
+</div>
+      
+      <div class="banner-content-wrapper">
+                  <h1>Het Grote Vogelweekend</h1>
+                
+      </div>
+    </div>
+    
+      <div class="field field--name-field-subsite-body field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <div class="paragraph-background-none paragraph-container-small paragraph-only-margin paragraph paragraph--type--layout-1-col paragraph--view-mode--full" id="paragraph--layout_1_col--80385">
+            <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+        <div class="paragraph-background-none paragraph paragraph--type--image paragraph--view-mode--full" id="paragraph--image--109763">
+          <div class="paragraph-wrapper">
+          
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--has-hover media--type-image media--view-mode-tablet" oncontextmenu="return false;">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Afbeelding</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/tablet/public/2026-01/Het%20Grote%20Vogelweekend%202026%20Infographic%201200x480%20%282%29.jpg?itok=izWoEspa" width="1016" height="406" alt="Het Grote Vogelweekend Top 3" class="image-style-tablet" />
+
+
+</div>
+          </div>
+
+          <div class="media--caption">
+        
+            <div class="field field--name-field-media-author field--type-string field--label-hidden field__item">Natuurpunt</div>
+      
+      </div>
+      </article>
+</div>
+      
+      </div>
+      </div>
+  <div class="paragraph-background-none paragraph-center paragraph paragraph--type--text paragraph--view-mode--full" id="paragraph--text--99531">
+          <div class="paragraph-wrapper">
+            <div class="paragraph__text-wrapper">
+    
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p class="paragraph--intro" data-path-to-node="3,0">Het Grote Vogelweekend 2026 was een recordeditie! Met maar liefst 76.342 tellers (+33%) was dit de op één na grootste editie ooit. De resultaten zijn verrassend: de pimpelmees verovert voor het eerst een plek in de top drie, terwijl het aantal <b data-path-to-node="7,0" data-index-in-node="268"><strong>huismussen</strong></b> in onze tuinen helaas jaar na jaar afneemt. Benieuwd naar alle cijfers en de belangrijkste inzichten?</p>
+<p class="paragraph--intro"><a class="button--orange" href="https://www.natuurpunt.be/publicaties/rapport-het-grote-vogelweekend-2026">Lees het vogelrapport 2026</a></p>
+<p class="paragraph--intro">Afspraak voor volgend jaar: <b data-path-to-node="7,2" data-index-in-node="94"><strong>zaterdag 30 en zondag 31 januari 2027</strong></b>. Noteer het alvast in je agenda!</p>
+</div>
+      
+  </div>
+      </div>
+      </div>
+
+    </div>
+  </div>
+
+    </div>
+</div>
+              <div class="field__item">  <div class="paragraph-background-none paragraph-container-wide paragraph-only-margin paragraph paragraph--type--layout-3-col paragraph--view-mode--full" id="paragraph--layout_3_col--106870">
+          
+  <div class="layout layout--threecol">
+    <div class="layout--grid">
+              <div  class="layout__region layout__region--first">
+            <div class="paragraph-background-none paragraph-image-position-left-above paragraph paragraph--type--cta paragraph--view-mode--full" id="paragraph--cta--106876">
+          <div class="paragraph-wrapper">
+              <a href="https://www.natuurpunt.be/natuurinfo/downloads/cursus-vogels-in-vlaanderen">
+      <div class="cta-wrapper">
+      <div class="cta--content-wrapper">
+                  <h2>Online Cursus</h2>
+                
+            <div class="clearfix text-formatted field field--name-field-cta-description field--type-text-long field--label-hidden field__item"><p>In Vlaanderen kan je meer dan 300 vogelsoorten spotten! Wil je ze leren kennen? Start nu met onze <strong>gratis online cursus Vogels in Vlaanderen</strong> en<strong> </strong>ontdek de rijke natuur in je buurt.</p>
+</div>
+      
+              </div>
+    
+            <div class="field field--name-field-cta-image field--type-entity-reference field--label-hidden field__item"><article class="media media--has-hover media--type-image media--view-mode-fixed-5-6" oncontextmenu="return false;">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Afbeelding</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/fixed_5_6/public/2026-02/CursusVogelsInVlaanderen_Thumbnail.jpg?h=7ff807d0&amp;itok=Ij8Fbjfd" width="620" height="744" alt="vogels in vlaanderen" class="image-style-fixed-5-6" />
+
+
+</div>
+          </div>
+
+          <div class="media--caption">
+        
+            <div class="field field--name-field-media-author field--type-string field--label-hidden field__item">Natuurpunt</div>
+      
+      </div>
+      </article>
+</div>
+      
+    </div>
+      </a>
+        </div>
+      </div>
+
+        </div>
+      
+              <div  class="layout__region layout__region--second">
+            <div class="paragraph-background-none paragraph-image-position-left-above paragraph paragraph--type--cta paragraph--view-mode--full" id="paragraph--cta--110899">
+          <div class="paragraph-wrapper">
+              <a href="https://www.natuurpunt.be/natuurinfo/downloads/download-je-tuinvogelposter">
+      <div class="cta-wrapper">
+      <div class="cta--content-wrapper">
+                  <h2>Vintage vogelposter</h2>
+                
+            <div class="clearfix text-formatted field field--name-field-cta-description field--type-text-long field--label-hidden field__item"><p>Herken je alle vogels? Download onze poster met de&nbsp;<strong>meest voorkomende vogels</strong> in Vlaanderen of word lid van Natuurpunt en ontvang hem bij je <strong>welkomstpakket</strong>.&nbsp;</p>
+</div>
+      
+              </div>
+    
+            <div class="field field--name-field-cta-image field--type-entity-reference field--label-hidden field__item"><article class="media media--has-hover media--type-image media--view-mode-fixed-5-6" oncontextmenu="return false;">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Afbeelding</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/fixed_5_6/public/2024-11/HGV25_Website_Vogelposter_mockup.png?h=64783bb2&amp;itok=KFJvhdHN" width="620" height="744" alt="Vogelposter" class="image-style-fixed-5-6" />
+
+
+</div>
+          </div>
+
+          <div class="media--caption">
+        
+            <div class="field field--name-field-media-author field--type-string field--label-hidden field__item">Natuurpunt</div>
+      
+      </div>
+      </article>
+</div>
+      
+    </div>
+      </a>
+        </div>
+      </div>
+
+        </div>
+      
+              <div  class="layout__region layout__region--third">
+            <div class="paragraph-background-none paragraph-image-position-left-above paragraph paragraph--type--cta paragraph--view-mode--full" id="paragraph--cta--106872">
+          <div class="paragraph-wrapper">
+              <a href="https://winkel.natuurpunt.be/het-grote-vogelweekend">
+      <div class="cta-wrapper">
+      <div class="cta--content-wrapper">
+                  <h2>Natuurpunt Winkel</h2>
+                
+            <div class="clearfix text-formatted field field--name-field-cta-description field--type-text-long field--label-hidden field__item"><p>Maak deze winter van je tuin een warme plek voor vogels met <strong>10% korting</strong> op alle vogelproducten en planten in de Natuurpunt Winkel, met de kortingscode <strong>TEL2026</strong>.</p>
+</div>
+      
+              </div>
+    
+            <div class="field field--name-field-cta-image field--type-entity-reference field--label-hidden field__item"><article class="media media--has-hover media--type-image media--view-mode-fixed-5-6" oncontextmenu="return false;">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Afbeelding</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/fixed_5_6/public/2025-12/NatuurpuntWinkem_Thumbnail.jpg?h=7ff807d0&amp;itok=sbJtUnLZ" width="620" height="744" alt="Natuurpunt Winkel korting" class="image-style-fixed-5-6" />
+
+
+</div>
+          </div>
+
+          <div class="media--caption">
+        
+            <div class="field field--name-field-media-author field--type-string field--label-hidden field__item">Natuurpunt</div>
+      
+      </div>
+      </article>
+</div>
+      
+    </div>
+      </a>
+        </div>
+      </div>
+
+        </div>
+          </div>
+  </div>
+
+    </div>
+</div>
+              <div class="field__item">  <div class="paragraph-background-light-blue paragraph-container-wide paragraph-only-margin paragraph paragraph--type--layout-1-col paragraph--view-mode--full" id="paragraph--layout_1_col--105565">
+            <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+        <div class="paragraph-background-none paragraph-list-render-slideshow referenced-content--testimonial paragraph paragraph--type--entity-embed paragraph--view-mode--full" id="paragraph--entity_embed--105566">
+          <div class="paragraph-wrapper">
+          
+    
+      <div class="field field--name-field-entity-embed-entities field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item">
+<article class="node node--type-testimonial node--view-mode-teaser node--type-testimonial--teaser node--no-sidebar">
+
+    
+  
+
+        
+    
+  <div class="node__content">
+    <div class="teaser--left">
+      
+            <div class="field field--name-field-testimonial-image field--type-entity-reference field--label-hidden field__item"><article class="media media--has-hover media--type-image media--view-mode-testimonial" oncontextmenu="return false;">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Afbeelding</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/testimonial/public/2025-12/HetGroteVogelweekend2026_Tom_Blob_4.png?itok=ExNPAYAh 1x, /sites/default/files/styles/testimonial_x2/public/2025-12/HetGroteVogelweekend2026_Tom_Blob_4.png?itok=bVB6JnF- 2x" media="all and (min-width: 768px) and (max-width: 1023px)" type="image/png" width="220" height="211"/>
+              <source srcset="/sites/default/files/styles/testimonial/public/2025-12/HetGroteVogelweekend2026_Tom_Blob_4.png?itok=ExNPAYAh 1x" type="image/png" width="220" height="211"/>
+                  <img loading="lazy" width="220" height="211" src="/sites/default/files/styles/testimonial/public/2025-12/HetGroteVogelweekend2026_Tom_Blob_4.png?itok=ExNPAYAh" alt="Tom Van Dyck" />
+
+  </picture>
+
+</div>
+          </div>
+
+      </article>
+</div>
+      
+    </div>
+    <div class="teaser--right">
+            
+            <div class="clearfix text-formatted field field--name-field-testimonial-testimonial field--type-text-long field--label-hidden field__item"><p>Zelfs in een kleine stadstuin kan je al iets betekenen voor vogels. Dat ondervind ik zelf in onze eigen stadstuin, die we natuurvriendelijk hebben ingericht.</p>
+</div>
+      
+            <div class="field field--name-field-testimonial-author field--type-string field--label-hidden field__item">Tom Van Dyck, acteur en ambassadeur van Het Grote Vogelweekend</div>
+      
+    </div>
+  </div>
+
+</article>
+</div>
+          </div>
+  
+      </div>
+      </div>
+
+    </div>
+  </div>
+
+    </div>
+</div>
+              <div class="field__item">  <div class="paragraph-background-none paragraph-container-small paragraph-only-margin paragraph paragraph--type--layout-1-col paragraph--view-mode--full" id="paragraph--layout_1_col--89218">
+            <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+        <div class="paragraph-background-white paragraph paragraph--type--text-with-icon paragraph--view-mode--full" id="paragraph--text_with_icon--87881">
+          <div class="paragraph-wrapper">
+          <div class="paragraph__title-wrapper">
+    
+            <div class="field field--name-field-text-with-icon-icon field--type-entity-reference field--label-hidden field__item"><article class="media media--type-icon media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-file field--type-file field--label-visually_hidden">
+    <div class="field__label visually-hidden">Icon</div>
+              <div class="field__item">  <img width="100" height="100" src=/sites/default/files/2024-11/voederplaats.svg />
+</div>
+          </div>
+
+  </article>
+</div>
+      
+          <h2>Zorg het jaarrond voor vogels</h2>
+      </div>
+  <div class="paragraph__text-wrapper">
+    
+            <div class="clearfix text-formatted field field--name-field-text-with-icon-body field--type-text-long field--label-hidden field__item"><p class="paragraph--intro">Wil je het hele jaar door genieten van vrolijk fluitende tuinvogels? Met een paar slimme aanpassingen maak je van je tuin het hele jaar door een plek waar vogels graag eten, schuilen en nestelen. Maar hoe pak je dat best aan? Schrijf je hier in en ontvang <b>1 keer per seizoen</b> de beste tips van onze vogelexperts. In de winter zetten we een tandje bij, want dan hebben de vogels je hulp extra hard nodig.</p>
+<form action="https://www.createsend.com/t/subscribeerror?description=" class="js-cm-form" data-id="5B5E7037DA78A748374AD499497E309EB035156DC1114F6B4716585115D574D56C9C49E51DC053AB36A0B149C94D42A2DECA1409DDA71AC88FBF2B527D9154C7" id="subForm" method="post">
+<div>
+<div style="margin-bottom: 15px;"><label style="font-weight: bold;">Naam</label><br />
+<input aria-label="Naam" id="fieldName" maxlength="200" name="cm-name" placeholder="Naam" style="height: 35px;"></div>
+<div style="margin-bottom: 15px;"><label style="font-weight: bold; margin-top: 15px;">E-mailadres <span style="color: red;">*</span></label><br />
+<input aria-label="E-mailadres" autocomplete="Email" class="js-cm-email-input qa-input-email" id="fieldEmail" maxlength="200" name="cm-nsiujh-nsiujh" placeholder="E-mailadres" required style="height: 35px;" type="email"></div>
+<div>
+<div style="margin-bottom: 10px; margin-top: 15px;">
+<input id="tklkkid" name="cm-ol-tklkkid" type="checkbox" value="tklkkid"> <label for="tklkkid">Ja, stuur me ook de maandelijkse nieuwsbrief van Natuurpunt met natuurnieuws, weetjes, en activiteiten in jouw buurt</label></div>
+</div>
+</div>
+<p><button class="button" type="submit">Schrijf je in</button></form>
+<script type="text/javascript" src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script></div>
+      
+  </div>
+      </div>
+      </div>
+  <div class="paragraph paragraph--type--from-library paragraph--view-mode--full" id="paragraph--from_library--90162">
+          <div class="paragraph-wrapper">
+                  
+            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">  <div class="paragraph-background-none paragraph paragraph--type--text paragraph--view-mode--default" id="paragraph--text--7187">
+          <div class="paragraph-wrapper">
+            <div class="paragraph__text-wrapper">
+    
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p style="margin-top: 10px;"><em>Natuurpunt respecteert jouw privacy. We gebruiken de ingezamelde gegevens voor bovenvermelde doeleinden en enkel met jouw toestemming. We bewaren jouw contactgegevens hiervoor niet langer dan nodig. Je kan steeds jouw gegevens inzien, laten aanpassen of verwijderen. Je kan je steeds verzetten tegen de verwerking van jouw gegevens via&nbsp;<a href="/cdn-cgi/l/email-protection#b1c1c3d8c7d0d2c8f1dfd0c5c4c4c3c1c4dfc59fd3d4"><span class="__cf_email__" data-cfemail="3b4b49524d5a58427b555a4f4e4e494b4e554f15595e">[email&#160;protected]</span></a>. Zie ook onze uitgebreide&nbsp;<a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="32dd9bd3-9422-466e-8fd4-d2ace0704c89" href="/algemene-voorwaarden-en-privacy" title="Algemene voorwaarden en privacy">privacyverklaring</a>.</em></p>
+</div>
+      
+  </div>
+      </div>
+      </div>
+</div>
+      
+              </div>
+      </div>
+  <div class="paragraph-background-none paragraph paragraph--type--image paragraph--view-mode--full" id="paragraph--image--111013">
+          <div class="paragraph-wrapper">
+          
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--has-hover media--type-image media--view-mode-tablet" oncontextmenu="return false;">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Afbeelding</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/tablet/public/2026-02/HetGroteVogelweekend2026_Banner_Volgendjaar.jpg?itok=rdBuG_08" width="1016" height="363" alt="Het Grote Vogelweekend 2026 Tot volgend jaar" class="image-style-tablet" />
+
+
+</div>
+          </div>
+
+          <div class="media--caption">
+        
+            <div class="field field--name-field-media-author field--type-string field--label-hidden field__item">Vincent Lagrange</div>
+      
+      </div>
+      </article>
+</div>
+      
+      </div>
+      </div>
+
+    </div>
+  </div>
+
+    </div>
+</div>
+              <div class="field__item">  <div class="paragraph-background-none paragraph-container-small paragraph-only-margin paragraph paragraph--type--layout-1-col paragraph--view-mode--full" id="paragraph--layout_1_col--79469">
+            <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+        <div class="paragraph-background-none paragraph-center paragraph paragraph--type--text paragraph--view-mode--full" id="paragraph--text--14146">
+          <div class="paragraph-wrapper">
+            <div class="paragraph__text-wrapper">
+    
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p>Het Grote Vogelweekend wordt georganiseerd door <a href="https://www.natuurpunt.be/dit-is-natuurpunt">Natuurpunt</a>&nbsp;en mede mogelijk gemaakt door onze trotse sponsors.</p>
+</div>
+      
+  </div>
+      </div>
+      </div>
+  <div class="paragraph-background-none paragraph paragraph--type--image paragraph--view-mode--full" id="paragraph--image--104613">
+          <div class="paragraph-wrapper">
+          
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--has-hover media--type-image media--view-mode-tablet" oncontextmenu="return false;">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Afbeelding</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/tablet/public/2025-11/HetGroteVogelweekend2026_Logobalk.png?itok=eK7a3DJ9" width="1016" height="46" alt="Het Grote Vogelweekend 2026 Logobalk" class="image-style-tablet" />
+
+
+</div>
+          </div>
+
+          <div class="media--caption">
+        
+            <div class="field field--name-field-media-author field--type-string field--label-hidden field__item">Natuurpunt</div>
+      
+      </div>
+      </article>
+</div>
+      
+      </div>
+      </div>
+
+    </div>
+  </div>
+
+    </div>
+</div>
+          </div>
+  
+  </div>
+</div>
+
+  </div>
+
+
+          </div>
+
+          
+                </div>
+    </section>
+  </main>
+
+      <section id="content-below" class="page-content-below">
+      <div class="container content-below__container">
+          <div id="block-natuurpunt-campaign-below-content" class="block block-natuurpunt-subsites block-campaign-below-content">
+  
+    
+      
+  <div class="campaign__social-media block__social-media">
+          <div class="field__item field--name-field-instagram">
+        <a href="https://www.instagram.com/natuurpunt/">&nbsp;</a>
+      </div>
+          <div class="field__item field--name-field-facebook">
+        <a href="https://www.facebook.com/natuurpunt">&nbsp;</a>
+      </div>
+          <div class="field__item field--name-field-twitter">
+        <a href="https://twitter.com/mijnnatuurpunt?lang=nl">&nbsp;</a>
+      </div>
+          <div class="field__item field--name-field-youtube">
+        <a href="https://www.youtube.com/user/MijnNatuurpunt">&nbsp;</a>
+      </div>
+      </div>
+
+
+  </div>
+
+
+      </div>
+    </section>
+  
+      <section id="doormat" class="page-doormat--subsite">
+      <div class="container doormat__container">
+          <div id="block-natuurpunt-subsite-doormat" class="block block-natuurpunt-subsites block-subsite-doormat">
+  
+    
+      
+        <div class="paragraph-background-none paragraph-link-default paragraph paragraph--type--link-list paragraph--view-mode--default" id="paragraph--link_list--14085">
+          <div class="paragraph-wrapper">
+          
+        <div class="text-formatted">
+      <ul class="field--name-field-paragraph-link-list-links">
+        
+  <li class="list__item"><a href="https://www.natuurpunt.be/het-grote-vogelweekend/vragen-resultaten-en-contact#paragraph--layout_1_col--14080">Vaak gestelde vragen</a></li>
+  <li class="list__item"><a href="/cdn-cgi/l/email-protection#6a1c050d0f061d0f0f010f040e2a040b1e1f1f181a1f041e44080f">Contacteer ons</a></li>
+  <li class="list__item"><a href="https://www.natuurpunt.be/het-grote-vogelweekend/vragen-resultaten-en-contact#paragraph--layout_1_col--79211">Campagnemateriaal</a></li>
+
+      </ul>
+    </div>
+        </div>
+      </div>
+  <div class="paragraph-background-none paragraph-link-default paragraph paragraph--type--link-list paragraph--view-mode--default" id="paragraph--link_list--78821">
+          <div class="paragraph-wrapper">
+          
+        <div class="text-formatted">
+      <ul class="field--name-field-paragraph-link-list-links">
+        
+  <li class="list__item"><a href="/natuurinfo/downloads/download-je-tuinvogelposter">Download de Tuinvogelposter</a></li>
+  <li class="list__item"><a href="/natuurinfo/downloads/gratis-online-cursus-tuinvogels-in-vlaanderen">Gratis Online Cursus Tuinvogels </a></li>
+  <li class="list__item"><a href="/natuurinfo/downloads/download-je-voedergids-voor-tuinvogels">Gratis Voedergids voor Tuinvogels </a></li>
+
+      </ul>
+    </div>
+        </div>
+      </div>
+  <div class="paragraph-background-none paragraph-link-default paragraph paragraph--type--link-list paragraph--view-mode--default" id="paragraph--link_list--107274">
+          <div class="paragraph-wrapper">
+          
+        <div class="text-formatted">
+      <ul class="field--name-field-paragraph-link-list-links">
+        
+  <li class="list__item"><a href="https://www.natuurpunt.be/het-grote-vogelweekend/hoe-tel-je-vogels">Hoe moet je tellen? </a></li>
+  <li class="list__item"><a href="https://www.natuurpunt.be/system/files/2025-12/HetGroteVogelweekend2026_DigitaalTellijstje_A4.pdf">Printversie telformulier</a></li>
+  <li class="list__item"><a href="https://www.natuurpunt.be/het-grote-vogelweekend/tuinvogels-herkennen">Vogels herkennen</a></li>
+
+      </ul>
+    </div>
+        </div>
+      </div>
+
+  
+  </div>
+
+
+      </div>
+    </section>
+  
+
+      <footer class="footer-wrapper">
+      <div id="footer" class="page-footer page-footer--subsite">
+        <div class="container page-footer__container">
+          <div class="footer--left">
+            <div class="block__copyright">&copy; 2026 Natuurpunt</div>
+                      </div>
+          <div class="footer--right">
+            &nbsp;
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  </div>
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"nl","drupalCountry":"BE","siteName":"Natuurpunt","entityCreated":"1683556885","entityType":"group","entityBundle":"campaign","entityId":"4","entityTitle":"Het Grote Vogelweekend","userUid":0,"userRoles":"ANON"});</script>
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"group\/4","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"nl"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"nl","languages":{"nl":{"id":"nl","name":"Dutch","direction":"ltr","weight":0}}},"fac":{"autocomplete_events":{"id":"autocomplete_events","jsonFilesPath":"\/sites\/default\/files\/fac-json\/autocomplete_events\/nl\/p2SbO2G778DAW8YNWhoRphZwE87ZDYhampwFGJLeSfM\/","inputSelectors":".block__events--search-exposed input.form-text","keyMinLength":1,"keyMaxLength":10,"breakpoint":0,"emptyResult":"","allResultsLink":false,"allResultsLinkThreshold":1,"highlightingEnabled":true,"resultLocation":""},"autocomplete_nature_centres":{"id":"autocomplete_nature_centres","jsonFilesPath":"\/sites\/default\/files\/fac-json\/autocomplete_nature_centres\/nl\/p2SbO2G778DAW8YNWhoRphZwE87ZDYhampwFGJLeSfM\/","inputSelectors":".block__nature-centres--search-exposed .form-item-text-input input.form-text","keyMinLength":1,"keyMaxLength":10,"breakpoint":0,"emptyResult":"","allResultsLink":false,"allResultsLinkThreshold":0,"highlightingEnabled":true,"resultLocation":""},"autocomplete_nature_reserves":{"id":"autocomplete_nature_reserves","jsonFilesPath":"\/sites\/default\/files\/fac-json\/autocomplete_nature_reserves\/nl\/p2SbO2G778DAW8YNWhoRphZwE87ZDYhampwFGJLeSfM\/","inputSelectors":".block__front--maps-search input.form-text","keyMinLength":1,"keyMaxLength":10,"breakpoint":0,"emptyResult":"","allResultsLink":false,"allResultsLinkThreshold":0,"highlightingEnabled":true,"resultLocation":".block__front--maps-search .form-item-maps-search-query"},"autocomplete_news":{"id":"autocomplete_news","jsonFilesPath":"\/sites\/default\/files\/fac-json\/autocomplete_news\/nl\/p2SbO2G778DAW8YNWhoRphZwE87ZDYhampwFGJLeSfM\/","inputSelectors":".block__news--search-exposed .form-item-text-input input.form-text","keyMinLength":1,"keyMaxLength":10,"breakpoint":0,"emptyResult":"","allResultsLink":false,"allResultsLinkThreshold":1,"highlightingEnabled":true,"resultLocation":""},"autocomplete_organisations":{"id":"autocomplete_organisations","jsonFilesPath":"\/sites\/default\/files\/fac-json\/autocomplete_organisations\/nl\/p2SbO2G778DAW8YNWhoRphZwE87ZDYhampwFGJLeSfM\/","inputSelectors":".block__organisations--search-exposed .form-item-text-input input.form-text","keyMinLength":1,"keyMaxLength":10,"breakpoint":0,"emptyResult":"","allResultsLink":false,"allResultsLinkThreshold":0,"highlightingEnabled":true,"resultLocation":".block__organisations--search-exposed .form-item-text-input"},"autocomplete_organisations_front":{"id":"autocomplete_organisations_front","jsonFilesPath":"\/sites\/default\/files\/fac-json\/autocomplete_organisations_front\/nl\/p2SbO2G778DAW8YNWhoRphZwE87ZDYhampwFGJLeSfM\/","inputSelectors":".block__front--organisations-search .form-item-municipality-input input.form-text","keyMinLength":1,"keyMaxLength":10,"breakpoint":0,"emptyResult":"","allResultsLink":false,"allResultsLinkThreshold":0,"highlightingEnabled":true,"resultLocation":""},"autocomplete_projects":{"id":"autocomplete_projects","jsonFilesPath":"\/sites\/default\/files\/fac-json\/autocomplete_projects\/nl\/p2SbO2G778DAW8YNWhoRphZwE87ZDYhampwFGJLeSfM\/","inputSelectors":".block__projects--search-exposed .form-item-text-input input.form-text","keyMinLength":1,"keyMaxLength":10,"breakpoint":0,"emptyResult":"","allResultsLink":false,"allResultsLinkThreshold":0,"highlightingEnabled":true,"resultLocation":""},"autocomplete_publications":{"id":"autocomplete_publications","jsonFilesPath":"\/sites\/default\/files\/fac-json\/autocomplete_publications\/nl\/p2SbO2G778DAW8YNWhoRphZwE87ZDYhampwFGJLeSfM\/","inputSelectors":".block__publications--search-exposed .form-item-text-input input.form-text","keyMinLength":1,"keyMaxLength":10,"breakpoint":0,"emptyResult":"","allResultsLink":false,"allResultsLinkThreshold":0,"highlightingEnabled":true,"resultLocation":""},"autocomplete_search":{"id":"autocomplete_search","jsonFilesPath":"\/sites\/default\/files\/fac-json\/autocomplete_search\/nl\/p2SbO2G778DAW8YNWhoRphZwE87ZDYhampwFGJLeSfM\/","inputSelectors":".block__search-text-top input.form-text,\r\n.block__search-text input.form-text","keyMinLength":2,"keyMaxLength":25,"breakpoint":0,"emptyResult":"","allResultsLink":false,"allResultsLinkThreshold":4,"highlightingEnabled":true,"resultLocation":""},"autocomplete_species":{"id":"autocomplete_species","jsonFilesPath":"\/sites\/default\/files\/fac-json\/autocomplete_species\/nl\/p2SbO2G778DAW8YNWhoRphZwE87ZDYhampwFGJLeSfM\/","inputSelectors":".block__species--main-search-exposed input.form-text, \r\n.block__species--search-exposed input.form-text","keyMinLength":1,"keyMaxLength":10,"breakpoint":0,"emptyResult":"","allResultsLink":false,"allResultsLinkThreshold":1,"highlightingEnabled":true,"resultLocation":""},"autocomplete_vacancies":{"id":"autocomplete_vacancies","jsonFilesPath":"\/sites\/default\/files\/fac-json\/autocomplete_vacancies\/nl\/p2SbO2G778DAW8YNWhoRphZwE87ZDYhampwFGJLeSfM\/","inputSelectors":".block__vacancies--search-exposed .form-item-text-input input.form-text","keyMinLength":1,"keyMaxLength":10,"breakpoint":0,"emptyResult":"","allResultsLink":false,"allResultsLinkThreshold":1,"highlightingEnabled":true,"resultLocation":""},"autocomplete_workgroups":{"id":"autocomplete_workgroups","jsonFilesPath":"\/sites\/default\/files\/fac-json\/autocomplete_workgroups\/nl\/p2SbO2G778DAW8YNWhoRphZwE87ZDYhampwFGJLeSfM\/","inputSelectors":".block__workgroups--search-exposed .form-item-text-input input.form-text","keyMinLength":1,"keyMaxLength":10,"breakpoint":0,"emptyResult":"","allResultsLink":false,"allResultsLinkThreshold":0,"highlightingEnabled":true,"resultLocation":".block__workgroups--search-exposed .form-item-text-input"}},"lazy":{"lazysizes":{"lazyClass":"lazyload","loadedClass":"lazyloaded","loadingClass":"lazyloading","preloadClass":"lazypreload","errorClass":"lazyerror","autosizesClass":"lazyautosizes","srcAttr":"data-src","srcsetAttr":"data-srcset","sizesAttr":"data-sizes","minSize":40,"customMedia":[],"init":true,"expFactor":1.5,"hFac":0.8000000000000000444089209850062616169452667236328125,"loadMode":2,"loadHidden":true,"ricTimeout":0,"throttleDelay":125,"plugins":[]},"placeholderSrc":"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==","preferNative":true,"minified":true,"libraryPath":"\/libraries\/lazysizes"},"user":{"uid":0,"permissionsHash":"ec7279c6abd620eebc270108dec90bd7c9f0adf04bcbb3a89a74739db460c57a"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/sites/default/files/languages/nl_Doo_vvX5aZJ1mIkeu4oa0cgwuhf8rxeFKt28SCWGC1A.js?tci9gj"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.6.3"></script>
+<script src="/core/misc/drupal.js?v=10.6.3"></script>
+<script src="/core/misc/drupal.init.js?v=10.6.3"></script>
+<script src="/modules/contrib/datalayer/js/datalayer.js?v=1.x"></script>
+<script src="/modules/contrib/fac/js/fac.js?v=10.6.3"></script>
+<script src="/modules/contrib/fac/js/jquery.fastautocomplete.js?v=10.6.3"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+<script src="/modules/contrib/lazy/js/lazy.js?v=10.6.3"></script>
+<script src="/themes/custom/natuurpunt/js/carousel.js?v=1.x"></script>
+<script src="/themes/custom/natuurpunt/js/entity-embed.js?v=1.x"></script>
+<script src="/themes/custom/natuurpunt/js/top-toggle.js?v=1.x"></script>
+<script src="/themes/custom/natuurpunt/js/top-search-toggle.js?v=1.x"></script>
+<script src="/themes/custom/natuurpunt/js/no-transition-page-load.js?v=1.x"></script>
+<script src="/themes/custom/natuurpunt/js/check-lapp-app.js?v=1.x"></script>
+<script src="/themes/custom/natuurpunt/vendor/masonry.pkgd.min.js?v=1"></script>
+<script src="/themes/custom/natuurpunt/js/masonry-doormat.js?v=1"></script>
+<script src="/themes/custom/natuurpunt/vendor/slick/slick/slick.min.js?v=1.x"></script>
+<script src="/themes/custom/natuurpunt/js/testimonial-carousel.js?v=1.x"></script>
+
+  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9e380ee83f2c90b8',t:'MTc3NDcxNTgzMw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"cfadd8cb8dc74a27b0b481e75147b78c","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

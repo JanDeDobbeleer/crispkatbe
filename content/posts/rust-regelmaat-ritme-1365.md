@@ -1,0 +1,11 @@
+---
+title: "Rust, regelmaat, ritme - 1/365"
+date: "2017-01-01"
+author: "crispkat"
+categories: ["project365"]
+tags: ["nieuwsbrieven", "tijd", "uitschrijven", "unroll"]
+excerpt: ""
+coverImage: "/images/blog/15820820_10155085786876062_1059208291_o-169x300.jpg"
+---
+
+In 2016 ging het bloggen redelijk hard de mist in. Waarom? Het gebrek aan rust, regelmaat en ritme. De 3 R'n werken niet alleen fantastisch goed voor pasgeborenen, ook mijn 33-jarige zelf heeft er baat bij. ![](/images/blog/15820820_10155085786876062_1059208291_o-169x300.jpg) Dus probeer ik het in 2017 weer over een andere boeg te gooien, in de hoop vaker in mijn toetsenbord te kruipen. So here I am, dag 1 van een [nieuwe 365](http://www.crispkat.be/category/project365/). Leg de lat dan niet ineens zo hoog hoor ik u denken, maar hey, het idee van 'ik blog af en toe' werkt overduidelijk niet. Want dan denk ik elke keer weer van 'ik doe het morgen', tot je een maand later beseft dat het niet meer de moeite is om er überhaupt iets over te schrijven. Dus ja het wordt (opnieuw) een huzarenstuk want 's avonds ben ik vaak pompaf, daarover later meer. En dan zijn er nog duizend andere dingen die ik eens zou moeten/willen doen. Ook voer voor later. Verwacht je hier dus niet dagelijks aan een epistel of hoogstaand stuk literatuur. En niet boos zijn als er een dag voorbij gaat zonder post. Ontdekking van de dag om tijd te winnen is [Unroll me](https://unroll.me/) dat ik zag passeren bij [Tales from the Crib](http://www.talesfromthecrib.be/2016/12/mijn-favoriete-dingen-van-2016/). Ken je dat zo een mailbox die uitpuilt van allerlei nieuwsbrieven die je zo met een half oog op je smartphone eens leest en daar de rest van hun leven zitten te rotten? Ik pleit schuldig, hoog tijd dus om 2017 goed te beginnen en me uit te schrijven op die nutteloze tijdvretende troep. Met Unroll me kan dat makkelijk, al heb ik de indruk dat ik nog niet alle maildiarree mee heb. Jij nog handige tools/lifehacks die je dagelijks tijd besparen? Let me know!

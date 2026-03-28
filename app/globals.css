@@ -1,0 +1,61 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  /* Fonts — loaded from Google Fonts CDN at runtime */
+  --font-sans:  Lato, Arial, Helvetica, sans-serif;
+  --font-serif: "Playfair Display", "Times New Roman", Times, serif;
+
+  /* Brand colours */
+  --color-coral:        #e57667;
+  --color-coral-dark:   #c45f52;
+  --color-heading-muted:#a4aeb3;
+  --color-text-muted:   #999594;
+  --color-body-text:    #666666;
+  --color-warm-bg:      #fcf8f7;
+  --color-tag-bg:       #e4e8eb;
+  --color-teal-mark:    #7dcfb6;
+}
+
+/* ── Base styles ─────────────────────────────────────────── */
+@layer base {
+  body {
+    background-color: #fcf8f7;
+    /* Subtle warm-tan dots — small enough not to interfere with text */
+    background-image: radial-gradient(circle, rgba(200, 176, 154, 0.55) 1.5px, transparent 1.5px);
+    background-size: 28px 28px;
+    background-attachment: fixed;
+    color: #666;
+    font-weight: 300;
+    line-height: 1.6;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Playfair Display", "Times New Roman", Times, serif;
+    font-weight: 700;
+    color: #a4aeb3;
+    line-height: 1.2;
+    margin-bottom: 0.75em;
+  }
+}
+
+/* Video embeds from converted YouTube/Vimeo shortcodes */
+.video-embed {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  margin: 1.5rem 0;
+}
+.video-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.audio-embed {
+  margin: 1.5rem 0;
+}
+

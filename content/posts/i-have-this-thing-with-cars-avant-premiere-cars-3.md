@@ -1,0 +1,11 @@
+---
+title: "I have this thing with Cars -- avant-première Cars 3"
+date: "2017-06-25"
+author: "crispkat"
+categories: ["movie", "Parenthood"]
+tags: ["animatiefilm", "Cars 3", "cinema", "Disney"]
+excerpt: ""
+coverImage: "/images/blog/20170624_082243499_iOS-240x300.jpg"
+---
+
+Ik heb iets met auto's. Of beter gezegd: ik heb eigenlijk niks met auto's. Toen ik zo ongeveer klaar was aan de universiteit vonden mijn ouders het superbelangrijk dat ik ging voor dat stukje roze papier. Dat haalde ik, maar nadien heb ik de smaak van het autorijden nooit te pakken gekregen. Meer nog, instant okselvijvers als ik nog maar denk aan autorijden. Maar dat is misschien eerder voer voor een andere blogpost. Afgelopen weekend mochten we afzakken naar Kinepolis Brussel voor de avant-première van Cars 3. Cars is niet weg te slaan bij in onze huiskamer. Het is een van de favoriete animatiefilms van Mats en dat uit zich in behoorlijk wat Cars autootjes, Duplo en Lego gewijd aan Lightning McQueen en zijn gevolg. Zoonlief voor zijn eerste keer cinema mogen trakteren op zo een event was heerlijk! ![](/images/blog/20170624_082243499_iOS-240x300.jpg) ![](/images/blog/kleurpretgitte-225x300.jpg) ![](/images/blog/matscakeje-225x300.jpg)Elf jaar geleden kwam de eerste film uit. Toen ideaal kijkvoer voor onze neefjes C & T. Die laatste sliep jarenlang in een Racing Red slaapkamer, of nog steeds misschien?! Vijf jaar later was er Cars 2 en nog eens 6 jaar later is er nu dus een nieuw verhaal met onze favo rode racer in de hoofdrol. Al 11 jaar lang weet Disney jongens en meisjes te boeien met levende auto's. Maar is McQueen na 11 jaar toch niet een beetje uitgezongen moeten ze bij Disney ook gedacht hebben. Oldschool racer Lightning McQueen moet het opnemen tegen een nieuwe generatie racers. Harder, better, faster, stronger... Met de hulp van trainer Ramirez Cruz probeert hij zich toch in de race te houden. Of dat lukt dat kan je op 26 juli ontdekken in de cinema... Wij hebben er alleszins van genoten. Meestal verkies ik de Engelstalige versie, maar in Cars 3 zit je Vlaams ook helemaal goed. Een pluim op de hoed van Jan Schepens, Willem Boeva maar vooral de aanstekelijke Ella Leyers die Cruz Ramirez echt laat sprankelen. En thumbs up for Disney, met eindelijk een sterke hoofdrol voor een vrouwelijk personage maken ze van Cars 3 een must see voor jong en oud, m en v.

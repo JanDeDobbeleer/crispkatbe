@@ -1,0 +1,11 @@
+---
+title: "Laat de natuur je was doen - Seepje review"
+date: "2015-12-08"
+author: "admin"
+categories: ["Parenthood"]
+tags: ["ecologisch", "seepje", "was", "wasmachine"]
+excerpt: ""
+coverImage: "/images/blog/6tag_011215-124510-300x300.jpg"
+---
+
+Een gezin van vier, dat betekent aardig wat was. Zeker met nog een kleintje in huis. Toevallig belandde ik onlangs op de site van [Seepje](http://www.seepje.nl/). Dit Nederlandse product maakt duurzaam wassen makkelijk. Onder de noemer "Laat de natuur je was doen" biedt Seepje wasproducten aan op basis van de schillen van de Sapindusboom. En de beste schillen die vind je in Nepal, waar de lokale bevolking prat gaat op de schillen voor grote en kleine wasjes. [![6tag_011215-124510](/images/blog/6tag_011215-124510-300x300.jpg)](http://www.crispkat.be/wp-content/uploads/2015/12/6tag_011215-124510.jpg) Ik wou toch wel graag met eigen ogen zien hoe de schillen hun werk deden.  Want als je gewoon een vat was proper krijgt met 4 schillen in een waszakje, puur natuur, waarom doen we dat dan niet en masse? Dus ik koos meteen voor een stevige test. Een was op 30 graden met vieze knuffels van dochterlief en haar witte wollen vestje met tomatenvlek. Een zakje schillen bevat ook een waszakje en etherische olie als wasverzachter en is goed voor 30 wasbeurten. Klaar voor een was? Stop 4 hele schillen in het kleine waszakje, stop dit bij je was. Druppel  10 druppels lavandelolie als wasverzachter in je machine en wassen maar.. Niet alleen haalde ik proper wasgoed uit de machine, de was rook heerlijk en was lekker zacht. En de schillen mag je daarna nog 2x opnieuw gebruiken! Ik ben fan. Voor wie liever gewoon vloeibaar wasmiddel gebruikt, heeft Seepje de schillen ook verwerkt tot natuurlijke vloeibare waszepen.  Met geuren als "vers geperste lentegeur" en "vrij en blij geur" wordt wassen eens zo leuk. De verpakking is ook grotendeels in karton en makkelijk recycleerbaar. [![seepje](/images/blog/seepje-300x200.jpg)](http://www.crispkat.be/wp-content/uploads/2015/12/seepje.jpg) Seepje schillen, goed voor 30 wasbeurten, heb je in 3 varianten, vanaf €7,95. Seepje vloeibaar, goed voor 25 wasbeurten, heb je zowel voor bonte als witte was in 2 geuren, vanaf €9,95. [www.seepje.nl](http://www.seepje.nl/)

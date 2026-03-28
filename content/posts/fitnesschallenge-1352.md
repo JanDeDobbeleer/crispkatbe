@@ -1,0 +1,11 @@
+---
+title: "Over een hangbuikzwijntje en fitness challenges - 13/52"
+date: "2015-04-03"
+author: "admin"
+categories: ["Personal", "Sport"]
+tags: ["bewegen", "billen", "buik", "crunch", "fitness challenge", "keizersnede", "sport", "squat"]
+excerpt: ""
+coverImage: "http://static0.goedgevoel.be/static/photo/2015/11/12/5/20150401154152/media_xl_7603925.jpg"
+---
+
+Dik zeven maand geleden werd mijn buik vakkundig open geritst om er een pracht van een dochter uit te halen. Resultaat: een hangbuikje met een litteken dat voelt als de sluiting van zo een hersluitbaar zakje. En af en toe pijntjes als het weer verandert.Aan dat laatste valt niet veel te doen, ik noem het mijn persoonlijke barometer. Om het litteken mooi te laten genezen gebruik ik al een paar maanden [Bio-Oil](http://www.omega-pharma.be/nl-BE/content/bio-oil/6/4/33/). Een product dat bestaat uit een aantal natuurlijke oliën dat snel intrekt en lekker voelt. Maar dan mijn status als hangbuikzwijntje... 6 weken na de bevalling startte ik met postnatale kine. Plichtsbewust deed ik flink mijn oefeningen, maar eenmaal de kinesessie er op zaten, liet ik het hangen. Dat mag u letterlijk nemen. Duuuuus was het tijd voor actie. Gemotiveerd door de wederhelft ga ik opnieuw lopen. Goed om het hoofd leeg te maken en aan mijn conditie te werken. Lange leve start to run met Evy, al word ik wel simpel van die slechte muziek. Maar het echte werk zijn de buikspieroefeningen en daarvoor doe ik  sinds kort van [30 day challenges](http://30dayfitnesschallenges.com/). ![](http://static0.goedgevoel.be/static/photo/2015/11/12/5/20150401154152/media_xl_7603925.jpg)Hype of niet, het feit dat je je engageert voor zo een challenge werkt motiverend. Elke avond maak ik tijd voor de [crunch](http://30dayfitnesschallenges.com/30-day-crunch-challenge/) en [squat challenge](http://30dayfitnesschallenges.com/30-day-squat-challenge/). En mix ik er nog wat kine-oefeningen tussen zodat ook de schuine en onderste buikspieren getraind worden. Lekker makkelijk want het kan gewoon thuis, tussendoor. En met snel resultaat, want na 15 dagen crunches voel en zie ik alweer een verschil. En ik heb ook meer energie! #winning

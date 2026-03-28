@@ -1,0 +1,11 @@
+---
+title: "Mijn perfecte living - 290/365"
+date: "2014-10-17"
+author: "admin"
+categories: ["Parenthood", "Personal", "project365"]
+tags: ["huis", "living", "wonen"]
+excerpt: ""
+coverImage: "/images/blog/tumblr_ncn6bc0dKZ1tm081co1_500.jpg"
+---
+
+Deze week zag ik meermaals een item van [Newsmonkey](http://newsmonkey.be/article/21569) passeren in mijn timeline, Newsmonkey zelf ging shoppen bij een fijne Tumblrblog. [It's like they know us](http://itsliketheyknowus.tumblr.com/) verzamelt beelden van hoe fout stockfoto's ouderschap weergeven. Net zoals de supermarkt geen 'gek'gevormde groenten en fruit in de rekken legt, adverteren merken ook graag met picture perfect. Ook als ze jonge ouders willen aanspreken. En dan krijg je een overvloed van schone mensen met schone kinders, vlekkeloze witte zetels en glamoureuze moeders en vaders. Zoiets als dit: ![](/images/blog/tumblr_ncn6bc0dKZ1tm081co1_500.jpg) Bij deze dus mijn perfecte living waar ik heel gelukkig in ben. Doorklikken voor een panorama view ervan met wat tekst en uitleg. [![](https://4d1hnw-ch3301.files.1drv.com/y2pBHjgPVL-gi_SfSAQRaJl7wzPKgZ4K3eAGQPn9F-jTV7KMQItDOBjp_vY8eyHG3MolPq8sOtKMShhrl5UWjElp29mO5HTUDdrUpSJF3OrR3E/living.jpg?psid=1)](https://4d1hnw-ch3301.files.1drv.com/y2pBHjgPVL-gi_SfSAQRaJl7wzPKgZ4K3eAGQPn9F-jTV7KMQItDOBjp_vY8eyHG3MolPq8sOtKMShhrl5UWjElp29mO5HTUDdrUpSJF3OrR3E/living.jpg?psid=1) We hebben een hoek met speelgoed en het park voor de baby. Nee dat parkje is niet gebroken, de panoramaview is niet perfect gelukt. Onze boekenkast is een beetje chaotisch, al vind ik alles terug. De buggy is dichtbij voor als de dochter wil dutten, maar 's ochtends als ik ontbijt zit ze graag dichtbij in haar relax. Onze zetel is een lekker grote 4-zit Klippan van Ikea met wasbare hoes, een zwarte en een in jeansstof. Een zegen met kleintjes in huis want er landt al eens wat melk of ander leuks op. En ja melk, je ziet de flesjes nog staan. De salontafel is vaak ook ingenomen door Duplo, een piratenboot, plasticine. Hier wordt gespeeld weet u wel. En 's ochtends ontbijt ik vaak op dat plekje in de ochtendzon. Weinig wit dus, behalve dan de tetradoeken waarmee ik melkboertjes opvang. Maar wel eens zo gezellig. En hoe zit dat bij jullie?

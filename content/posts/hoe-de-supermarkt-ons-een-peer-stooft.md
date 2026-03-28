@@ -1,0 +1,11 @@
+---
+title: "Hoe de supermarkt ons een peer stooft..."
+date: "2017-01-20"
+author: "crispkat"
+categories: ["project365"]
+tags: ["fruit", "peer", "supermarkt"]
+excerpt: ""
+coverImage: "/images/blog/pears-1748175_1920-300x205.jpg"
+---
+
+Mijn grootouders aan moeders kant waren fruitboeren. Stielmensen die een mooi fruitbedrijf uitbouwden, voortgezet door mijn nonkel en nu mijn neven. Ook een andere tante ging verder met de stiel en ook hier zitten de neven nog tussen de appels en peren. Een fantastische stiel van hard werken in weer en wind, op het ritme van de seizoenen. ![](/images/blog/pears-1748175_1920-300x205.jpg) Een paar keer ging ik als vakantiejob helpen tijdens de pluk. Toen al amper een Belg in de groep. Nochtans een aanrader, een hele dag werken in de buitenlucht, sappig uitgeregend of bruinverbrand, lekker moe je bed in. Eindeloos respect voor iedereen in de boerenstiel. Want die appels en peren en bij uitbreiding alle groenten en fruit komen niet zomaar terecht in de supermarkt. Als consument lijken we dat voortraject wel wat te vergeten. Supermarkten willen nu hun best doen om de consument op te voeden. Want die kromme groenten en dat scheve fruit, dat is even lekker als exemplaren die er wel 'normaal' uit zien. En op zich klinkt dat logisch, want ieder van ons weet best wel dat een kromme wortel niet anders zal proeven dan een rechte. Idem dito voor een hobbelig peer. En toch is het niet zo simpel als het lijkt. Zo las ik vandaag op de [Facebookpagina](https://www.facebook.com/fruitbedrijfstockx) van de neven. De 'abnormale' peren worden normaal opgekocht door bijvoorbeeld de producenten van Luikse stroop. Maar nu zag Albert Heijn dus het licht. Ze kopen het fruit op aan lage prijs en leggen het in hun winkelrekken aan de gewone prijs onder de noemer 'buitenbeentjes'. Slimme marketing met hoge winstmarges. Je sust het geweten van de consument want "hey dames en heren, jullie doen flauw, dit is even lekker. En wij halen die buitenbeentjes in huis, dus wees flink en koop dit fruit nu maar". De producent daarentegen, die kan fluiten naar een eerlijke prijs. En de supermarkt? Die heeft ons allen een dikke peer gestoofd.

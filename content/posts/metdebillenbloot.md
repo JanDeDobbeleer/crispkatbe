@@ -1,0 +1,11 @@
+---
+title: "Met de billen bloot..."
+date: "2013-08-01"
+author: "admin"
+categories: ["Personal"]
+tags: ["femma", "ons", "vrouwen"]
+excerpt: ""
+coverImage: "/images/blog/ons-212x300.jpg"
+---
+
+Gisteren prijkte deze advertentie van [Ons](http://www.ons.be "Ons") in De Standaard in het kader van De Standaard Solidariteitsprijs. Ons? U kent hen niet? Wel dat treft, tot gisteren ik ook niet. Ons is de nieuwe naam van Groep KVLV, ja inderdaad de Boerinnenbond. Na KAV die Femma werden, gooit de andere vrouwenvereniging het nu ook over een andere boeg. De vergrijzing is een feit en vaak sterk voelbaar in de lokale afdelingen maar de vrouwenbewegingen anticiperen en kiezen voor verjonging. Leuk toch? ![ons](/images/blog/ons-212x300.jpg) Blijkbaar is de advertentie bij een aantal vrouwen in het verkeerde keelgat geschoten. Zo zei professor Mia Leijssen vandaag in [De Standaard](http://www.standaard.be/cnt/dmf20130731_00677079): "De advertentie zegt mij: jonge vrouwen die graag hun sexappeal uitspelen, zijn welkom bij ons. En mannen die daarop kicken zullen bij ons hun gading vinden." Blijkbaar zag mevrouw Leijssen de advertentie helemaal anders dan ik. Niets uit de context in het beeld roept bij mij iets seksueels op. Wat ik zag was een herkenbaar beeld van die keer dat je snel, snel naar het toilet gaat en in je haast je rok per ongeluk in je slip belandt. Geen daad van een vrouw "die geleerd heeft dat ze alleen aandacht krijgt als seksueel wezen", maar iets wat Astrid Bryan een wardrobe malfunction zou noemen. Eentje die me zelf overkwam 5 jaar geleden in Madrid en waar ik toen met schaamrood op de wangen stond, kan ik er nu hartelijk om lachen. Goedkoop en niet matuur? Dat vind ik niet. Als vrouwen zelf elk stukje bloot in reclame resoluut gaan bestempelen als "vrouw gebruikt als seksueel wezen" dan vind ik emancipatie pas echt ver zoek. Maar los van de komkommerheisa rond het beeld hoop ik vooral dat Ons er in slaagt om ook werkelijk te verjongen. Want eerlijk is eerlijk de gemiddelde leeftijd van veel lokale afdelingen ligt ver boven de mijne en om te kienen en turnen kunnen 55-plussers ook bij Okra terecht.  Ik ben benieuwd naar het aanbod voor het nieuwe werkjaar en hoop dat  bewegingen als Ons en Femma slagen in het bouwen van die intergenerationele en -culturele brug.

@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="de" data-cs-scroll-container="">
+  <head>
+  <link rel="preload" href="/styles-SYFJYQFW.css" as="style">
+    <meta charset="utf-8"/>
+    <title>HABA</title>
+    <base href="/"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+    <link rel="icon" type="image/x-icon" href="haba/favicon.ico"/>
+    <link rel="manifest" href="haba/manifest.webmanifest"/>
+    <meta name="theme-color" content="#004C97"/>
+  <link rel="stylesheet" href="styles-SYFJYQFW.css"><link rel="preload" href="https://p.typekit.net/p.css?s=1&amp;k=ukq8htg&amp;ht=tk&amp;f=24561.24562.24571.24572.28747.28752.28755.28762&amp;a=248464423&amp;app=typekit&amp;e=css" as="style"></head>
+  <body tabindex="0"><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
+</script>
+    <noscript><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-KBWKLTR"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
+    <app-root></app-root>
+    <noscript>Please enable JavaScript to continue using this application.</noscript>
+  <link rel="modulepreload" href="chunk-TSMU6VVI.js"><link rel="modulepreload" href="chunk-WUKIMKTP.js"><link rel="modulepreload" href="chunk-YOL3U353.js"><link rel="modulepreload" href="chunk-NYPXFSQ2.js"><link rel="modulepreload" href="chunk-OU6SCUQ7.js"><link rel="modulepreload" href="chunk-6JTFLLME.js"><link rel="modulepreload" href="chunk-HSEPOZQQ.js"><link rel="modulepreload" href="chunk-KTKSON7B.js"><link rel="modulepreload" href="chunk-S5UOR7WC.js"><link rel="modulepreload" href="chunk-ZDTGJNSW.js"><script src="polyfills-EQXJKH7W.js" type="module"></script><script src="main-H5W3HFUW.js" type="module"></script></body>
+</html>

@@ -1,0 +1,11 @@
+---
+title: "Ezrrrra - 177/365"
+date: "2014-06-26"
+author: "admin"
+categories: ["Music", "project365"]
+tags: ["Ezra", "Wanted on Voyage"]
+excerpt: ""
+coverImage: "https://4d1hnw.dm1.livefilestore.com/y2pT-JX5m0P0aPj0Y1JVfm_u3IM5RTvafrpRv1knKqVm7QEF_8GP730p7epOpkavlqjyYx2tm--9E0LIpcXKlfFsuX7TIy3WvdcDz30NbCHyKc/6tag_260614-105316.jpg?psid=1"
+---
+
+Deze zomer zit er voor mij niet meteen een festival of roadtrip in. Met mijn bolle buik ga ik proberen om nog 3 weken te werken en dan hopelijk nog een week of 7 rustig aan te genieten en de komst van nummer 2 voor te bereiden. ![](https://4d1hnw.dm1.livefilestore.com/y2pT-JX5m0P0aPj0Y1JVfm_u3IM5RTvafrpRv1knKqVm7QEF_8GP730p7epOpkavlqjyYx2tm--9E0LIpcXKlfFsuX7TIy3WvdcDz30NbCHyKc/6tag_260614-105316.jpg?psid=1) Dankzij de tijgers van [Walkie Talkie.be](http://walkie.talkie.be/) kreeg ik vandaag in primeur het album Wanted on Voyage van George Ezra in de bus. En behalve het album ook nog een shortlist van de items die Ezra steevast graag op zak heeft. Kijk er al naar uit om nog eens oldschool met een wegwerpcamera foto's te maken. ![](https://4d1hnw.dm1.livefilestore.com/y2phE_hWVrLMLdgpyoLlwM2NgRX2PkWKEsAGkIgvpRbqUxT3nHNJi7uaUGHTWZi0YbnHr7HiV1HZWGNInhG78Ibid-sJQc6fVK-x4psBkqSJKA/6tag_260614-105831.jpg?psid=1) Ik ben al een tijdje weg van Ezra. Dat las je misschien al op [Glitterellas](http://glitterellas.wordpress.com/2014/01/30/katrien-crispeyn-blogt-voor-glitterellas-everybody-loves-george/). Voor wie hem niet kent.  Een gast van 21 uit Bristol met een klok van een stem. Je kent vast [Budapest](http://youtu.be/LiEMLOk9BwU) en [Cassy O'](http://youtu.be/ubztYMkI3fY) al wel. Maar ook de rest van de plaat mag er zeker zijn. Ezra opent meteen bijzonder catchy met 'Blame it on Me'.  Het zomers kabbelende 'Barcelona' doet je denken aan een zonovergoten dag op het strand in de Spaanse stad. Voor 'Leaving it up to you' krijgt hij de hulp van een koor en dat kan tellen voor een stevig oorwurmgehalte. Straffe popsongs schudt Ezra moeiteloos uit zijn mouw, maar dan schotelt hij je 'Did you hear the rain?' voor. Met een acapella start die zorgt voor goosebumps all over. Kortom een fijne plaat met veel popnummers en hier en daar wat weerhaakjes.  Als je naar Rock Werchter gaat op vrijdag afspraak dan om 14u45 in Klub C.

@@ -1,0 +1,11 @@
+---
+title: "Lasagne - 209/365"
+date: "2014-07-28"
+author: "admin"
+categories: ["Food", "project365"]
+tags: ["lactosevrij", "lasagne"]
+excerpt: ""
+coverImage: "https://4d1hnw.dm2301.livefilestore.com/y2pSqg08kmQC0a6RVzhMyCXgudZ36a3ZGhDdTAbRBOPQbVvOzjIKtJymHw5wEMscDRjIPNFkJTnoN6SA3Tpi6NCCF27_bqciBdRC4Om9yBior4/6tag_280714-183248.jpg?psid=1"
+---
+
+Voor het eerst in tijden maakte ik vandaag nog eens lasagne. Helemaal lactosevrij en lekker, een adaptatie van [Meus](http://www.een.be/programmas/dagelijkse-kost/recepten/lasagne) zijn recept. **Ingrediënten** **(4 personen):** tomatensaus: 2 uien 4 teentjes look 3 wortels 1 courgette 250 gr champignons 300 gr gehakt 300 gr passata verse basilicum verse oregano verse tijm zout peper bechamelsaus: 30 gr sojaboter 30 gr bloem ca. 1/2 liter sojamelk ongezoet 50 gr lactosevrije geraspte kaas en een tiental lasagnevellen **Bereiding** Bak het vlees in een pot in hete olijfolie. Snij de ajuin fijn en pers de look. Voeg dit toe aan het vlees. Schil de wortels, snij ze in fijne stukjes, snij ook de courgette fijn en doe dit bij in de pot. Tot slot snij je de champignons in stukken en doe je deze ook bij in de pot. Laat het geheel een tijdje stoven en voeg dan de fijn gesneden verse kruiden en de passata toe. Laat dit een tijdje pruttelen op een zacht vuur totdat je een stevige tomatensaus hebt. Afkruiden doe je met peper en zout. Voor de bechamelsaus smelt je de boter in een pannetje om er vervolgens de bloem bij te doen. Als je een mooi droog papje in je pannetje hebt giet je er melk bij. Goed roeren zodat het geheel bindt en je een gladde saus bekomt. Haal de saus van het vuur, voeg er de kaas aan toe en kruid af met peper en zout. **De lasagne...** Verwarm je oven alvast op 180°C. Neem een schaal voor 4 personen en doe een dun laagje bechamelsaus op de bodem. Leg er de lasagnevellen op. Wissel nu telkens een laat tomatensaus en lasagnevellen af. Eindig met een laag tomatensaus. Doe hier de rest van de bechamelsaus over en werk af met nog wat geraspte kaas. Zet de lasagne een halfuur in de oven en zorg voor een krokant korstje door hem op het einde nog 3 minuten onder de grill te zetten. Smakelijk! ![](https://4d1hnw.dm2301.livefilestore.com/y2pSqg08kmQC0a6RVzhMyCXgudZ36a3ZGhDdTAbRBOPQbVvOzjIKtJymHw5wEMscDRjIPNFkJTnoN6SA3Tpi6NCCF27_bqciBdRC4Om9yBior4/6tag_280714-183248.jpg?psid=1)

@@ -1,0 +1,11 @@
+---
+title: "De wielen van de Duplobus"
+date: "2015-04-26"
+author: "admin"
+categories: ["Parenthood"]
+tags: ["creativiteit", "Duplo"]
+excerpt: ""
+coverImage: "https://4d1hnw.dm2301.livefilestore.com/y2pPPl_oRLSzGpj8_cWbagnx7FzjMUl5oW9m6iX3SvvfX_7YIYxaipIsHuAwpo5ngwG1Fk49_zT3vIJHyGSxKm4C7yhDSzAjVrGHV1kXf1QkF1xU3FZaUCyzTxHpyaCgTr6C6s6sJJqmT9SB0u-ndM-j_glRKZfHssUldxNGTt7Tb8/duplo1.jpg?psid=1"
+---
+
+Een van de meest populaire merken hier in huis by far is [Duplo](http://www.lego.com/nl-be/duplo). Duplo kwam al in 1969 op de markt en is tegelijk de kleine en grote broer van Lego. Klein omdat de blokken mikken op de kleinsten van 1,5 tot een jaar of 5 en groot omdat de blokken precies 2 maal zo groot zijn als de Lego-blokken. Grote broer Mats was al fan toen hij 1 was. En nu kleine zus van 8 maanden ook veel interesse toont wordt hier dagelijks heel wat gebouwd met Duplo. Want dat is net zo fijn aan de blokken. Elke leeftijd kan er op zijn eigen manier mee aan de slag. Waar de 8-maander interesse heeft in elk kleurig blokje op zich, creëert de 3-jarige er een eigen wereld mee en is hij uren zoet met bouwen en verhalen verzinnen. Creativiteit ten top. ![](https://4d1hnw.dm2301.livefilestore.com/y2pPPl_oRLSzGpj8_cWbagnx7FzjMUl5oW9m6iX3SvvfX_7YIYxaipIsHuAwpo5ngwG1Fk49_zT3vIJHyGSxKm4C7yhDSzAjVrGHV1kXf1QkF1xU3FZaUCyzTxHpyaCgTr6C6s6sJJqmT9SB0u-ndM-j_glRKZfHssUldxNGTt7Tb8/duplo1.jpg?psid=1) Zie je dat klein handje hierboven komen? Ondertussen hebben we al heel wat Duplo in huis, deels nieuwe dingen, deels mooie stukken vanop de rommelmarkt. Want ook dat is zo fijn, het is speelgoed dat lang meegaat en retro stuks kan je vaak voor een prijsje op de kop tikken. Afgelopen week kregen we er de schoolbus bij. Heel herkenbaar voor Mats, want die mag dagelijks met het schoolbusje mee. En ook kleine zus was meteen geboeid door de wielen van de bus. [![duplo2](/images/blog/duplo2.jpg)](/images/blog/duplo2.jpg) De set bevat een bus met chauffeur en 2 kindjes met een valiesje. Een verkeerslicht en bushalte maken het geheel af. De schoolbus van Duplo is verkrijgbaar bij [Fun](http://www.fun.be/lego-duplo-schoolbus.html) voor €19,99. ![](http://media.fun.be/media/catalog/product/cache/43/image/768x/9df78eab33525d08d6e5fb8d27136e95/2/0/20358307a.png)

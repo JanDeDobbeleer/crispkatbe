@@ -1,0 +1,15 @@
+---
+title: "A better life on a happy planet..."
+date: "2013-11-06"
+author: "admin"
+categories: ["Personal"]
+tags: ["duurzaam", "ecologie", "groen", "klimaat", "natuur", "voetafdruk"]
+excerpt: ""
+coverImage: "/images/blog/cartoon6inyougothumans.jpg"
+---
+
+Vandaag las ik in de krant dat België hoog scoort op [Better Life Index](http://www.oecdbetterlifeindex.org/countries/belgium/ "Better life index"). We mogen ons gelukkig prijzen met een mooi loon voor ons harde werk en een vooruitzicht op een lang leven. Of dat lange, gelukkige leven der Belgen ook zo goed is voor onze planeet is dan weer een heel ander verhaal. Want met velen kiezen we dagelijks voor de auto en dit voor lange en korte afstanden. De concentratie van fijn stof is op die manier een van de hoogste in heel Europa! En onze huizen zijn belachelijk slecht geïsoleerd. Ikzelf woon in een wijk met veel 50'ers en '60'ers die het niet de moeite vinden om hun dak te isoleren of hun ramen te vernieuwen. 'Dat is niks meer voor mensen van onze leeftijd.' Onze levensverwachting ligt wel op 81 jaar, maar die oude dag vertoeven mijn buren dus liever met de verwarming continu op 5 en een energiefactuur om van te huilen. Ecologisch leven maakt gelukkig. Onze zware ecologische afdruk maakt dat we op de [Happy Planet Index](http://www.happyplanetindex.org/countries/belgium/ "Happy Planet Index") pas op plaats 107 staan. Honderd en zeven. Dat zijn honderd en zes landen waar je gelukkiger kan leven, ondanks langer werken, ondanks een korter leven, ondanks kleinere huizen en wagens,... In dezelfde krant een artikel over het jongste slachtoffer ooit van longkanker. Een meisje van 8 in het zwaar vervuilde China. Slachtoffer van dodelijke luchtvervuiling. Nog wat verder vraagt Rosa Mukankomeje, directeur-generaal van het Rwandese Milieuagentschap om in Europa voor eens en altijd komaf te maken met plastic zakjes. Want zo een zakje heeft duizenden jaren nodig om te ontbinden en elk van ons Belgen gebruikt er zo maar liefst 300 per jaar. Driehonderd. Elk jaar. Ook ik heb er in huis. Echt beschaamd werd ik toen ik las dat tweeverdieners te weinig tijd hebben om hun afval te sorteren. Te weinig tijd? Lui of onverschillig ja. Maar een fles in de vuilbak werpen of in de blauwe zak dat vraagt toch even veel tijd en moeite?
+
+![](/images/blog/cartoon6inyougothumans.jpg)
+
+Op dit moment spoort jongerenvertegenwoordiger voor klimaat [Robbert Casier](http://www.belgianunyouthdelegates.com/category/robbert/ "Robber Casier") naar de klimaattop in Warschau. Een jongere als officieel lid van de Belgische delegatie. Met een hoofd vol frisse ideeën. En ja, we mogen teleurgesteld zijn als de wereldleiders voor de zoveelste keer niet de ballen hebben om echt voor de toekomst te kiezen. Maar laten we vooral niet vergeten dat we niet op de overheid hoeven te wachten om voor een duurzame toekomst te gaan. Die keuze heeft ieder van ons elke dag opnieuw.

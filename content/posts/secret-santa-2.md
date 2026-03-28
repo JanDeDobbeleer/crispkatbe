@@ -1,0 +1,11 @@
+---
+title: "Secret Santa #2"
+date: "2011-12-20"
+author: "admin"
+categories: ["online", "Personal"]
+tags: ["kado", "kerst", "pakjes", "secret santa"]
+excerpt: ""
+coverImage: "/images/blog/IMG_8477-300x200.jpg"
+---
+
+Gisteren viel er een briefje van de post in de bus. Ik had een pakje gemist. Tussen het verhuizen door dus snel tijd maken om een bezoekje te brengen aan het postkantoor in mijn nieuwe thuisstad. Secret Santa time! [![](/images/blog/IMG_8477-300x200.jpg "Secret Santa presents")](http://www.crispkat.be/?attachment_id=725)Eens thuisgekomen het dilemma: alles opendoen of mooi dichtlaten en onder de boom leggen. Om uiteindelijk te kiezen voor het compromis: postdoosje toch al openmaken om vervolgens netjes te staan blinken onder de boom. Maar als kadootje voor een dagje hard werken, vond ik dat ik vanavond mijn pakjes toch al wel mocht open maken. So here we go! Het superleuke kaartje dat erbij zit is van '[Van Katoen](http://www.vankatoen.org/ "Van Katoen")' met een leuke tekening en kleurrijke knopen en achteraan een lieve boodschap van mijn Secret Santa [Sara](http://alejosa.wordpress.com/). Om het spannend te houden, ga ik nog even niet kijken op haar blog...   [![](/images/blog/IMG_8486-300x200.jpg "Drip Drop earrings")](http://www.crispkat.be/?attachment_id=726)[![](/images/blog/IMG_8492-300x200.jpg "Ankertrui")](http://www.crispkat.be/?attachment_id=727) [![](/images/blog/IMG_8497-300x200.jpg "Tasser de tas")](http://www.crispkat.be/?attachment_id=728) In de doos zitten 3 kadootjes verpakt in vrolijke polkad ot papier. We beginnen klein maar fijn, met leuke zwarte hangertjes. Alvast een kado waar ik heel vrolijk van word, want zonder oorbellekes voel ik me zo naakt.   Pakje nummer 2, is een pakje voor de toekomst. Het meest zalige pulletje ooit voor dat actieve wonder in mijn buik. Met als ultieme detail een rood anker. Mijn matroosje zal stralen! Love at first sight! En tot slot, pakje nummer 3 een hele leuke tas die perfect bij me past! Kortom niks dan leuks en moois, een perfect einde van deze fijne dag. Dankjewel Secret Santa [Sara](http://alejosa.wordpress.com/)! En ook een dikke merci aan [Tess](http://tessvdm.wordpress.com) die het hele Secret Santa gebeuren heeft mogelijk gemaakt.

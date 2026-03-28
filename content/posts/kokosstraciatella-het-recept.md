@@ -1,0 +1,11 @@
+---
+title: "Kokosstraciatella - het recept"
+date: "2015-06-09"
+author: "admin"
+categories: ["Food"]
+tags: ["ijs", "lactosevrij", "straciatella"]
+excerpt: ""
+coverImage: "https://4d1hnw.dm2301.livefilestore.com/y2pDO2S5YmT3bK8w4JPhqDNKswLROBHR7z23hjSgvQWligdrbD26EbyGmpvc3KrZKTJ2IY1Me9Wr84nHHXcWkgOpdUs8S-0zRiWErfSJ3nqalOl_ru54AiYAkp5yyY2sYn2O73zCJZCKPhCXNbb9oosKxm2CPF-W4IADGn7p7jTado/6tag_060615-212647.jpg?psid=1"
+---
+
+Ik hou van ijs. Die liefde kreeg ik van mee van mijn oma uit Attenrode. Ze had altijd ijs in de diepvries en van chocoladesaus in een bus. Winter en zomer. Maar lactosevrij eten maakt die voorliefde voor roomijs nogal onmogelijk. En ja sorbet is lekker, maar dat is niet hetzelfde hé vriendjes. Dus haalde ik me een ijsmachine in huis om zelf op zoek te gaan naar een recept voor lekker lactosevrij ijs. Mijn zelfvriezend exemplaar is van [Domo](http://www.ijsmachineshop.be/product/172079/category-213914/domo-do9030i.html). Het neemt aardig wat plaats in, maar je hebt er op een halfuur wel vers ijs mee. Mijn allereerste experiment viel in de smaak bij jong en oud, dus ik deel het graag met jullie. ![](https://4d1hnw.dm2301.livefilestore.com/y2pDO2S5YmT3bK8w4JPhqDNKswLROBHR7z23hjSgvQWligdrbD26EbyGmpvc3KrZKTJ2IY1Me9Wr84nHHXcWkgOpdUs8S-0zRiWErfSJ3nqalOl_ru54AiYAkp5yyY2sYn2O73zCJZCKPhCXNbb9oosKxm2CPF-W4IADGn7p7jTado/6tag_060615-212647.jpg?psid=1) **Ingrediënten**  0,5l kokosmelk fondantchocolade naar eigen wens 1 zakje vanillesuiker 1 vanillestokje 1 eetlepel honing kokosschilfers (voor de liefhebbers) **Bereiding** Doe de kokosmelk, de vanillesuiker en honing in een mengkom. Roer tot alle ingrediënten goed gemengd zijn. Voeg de zaadjes van het vanillestokje toe en roer nog even door. Giet het geheel in je ijsemmer en start het vriezen. Verwerk je chocolade in stukjes of rasp deze en voeg tijdens het vriezen toe. Na 30 tot 40 minuten is je ijs klaar. Je zal merken dat het ijs nog relatief zacht is, maar je kan het zo al eten. Heb je het liever nog wat steviger? Laat het dan nog 2 tot 3 uren harden in de diepvries. Schep je ijs in een doos, ik nam een doos van roomijs. Bovenop kan je nog een laagje geraspte chocolade of kokosschilfers doen. Dek af met een vel bakpapier en het deksel. Op deze manier vermijd je dat er zich bovenop ijskristallen vormen. Heb je zelf een lekker ijsrecept? Laat me iets weten!

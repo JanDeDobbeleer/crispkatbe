@@ -1,0 +1,11 @@
+---
+title: "I throw my toys around #wijvenweek"
+date: "2012-03-13"
+author: "admin"
+categories: ["Personal", "wijvenweek"]
+tags: ["beertje", "knuffels"]
+excerpt: ""
+coverImage: "/images/blog/sidekicks.jpg"
+---
+
+[![](/images/blog/sidekicks.jpg "sidekicks")](http://www.crispkat.be/?attachment_id=903) Ik hou van slapen. Onze drie jaar Heverlee waren drie jaar relatief slechte slaap. Te veel lawaai buiten. Het toilet 2 verdiepen lager, dus garanti klaarwakker na een nachtelijk plasje en zo kan ik nog even doorgaan. Sinds we verhuisd zijn heb ik de slaapkop in mezelf opnieuw ontdekt. Zelfs hoogzwanger rijf ik moeieteloos nachten van 9 uur aan elkaar. Maar bij mijn goede nachten hoort ook een **slaapritueel**. Geen dromenland zonder knuffel sidekick in de hand! Toen ik een baby was, kreeg ik een **dekentje**, lichtblauw met ruitjes. Dat dekentje heeft op mijn hoofdkussen gelegen tot ik naar de unief trok. De floshkes en het stofke helemaal versleten van 18 jaar frullen. Aan de unief was het dat alom bekende **Ikeahartje-kussen** dat me in de comfortzone bracht.En sinds 2005 is het een **beertje** dat mee op avontuur mag. En zo een knuffel moet niet gewoon mee in bed, ik moet het ding ook voelen. Als ik wakker word met lege handen begin ik te grabbelen in ons bed tot ik  het weer vind. En op snoezelochtenden in het weekend komt beertje tot leven, met gekke stemmetjes en verhalen om Jan wakker te maken. Je hoort het al, diep vanbinnen ben ik nog een klein meisje. En die gaan nooit alleen op pad! **Dorothy & Toto, Tiny & Poeffie, Pipi Langkous en meneer Nilsson, Katrien & Beertje, ... Every girl needs a sidekick right?** In de zomer kreeg ik het wel even benauwd. Want zijn kleine meisjes wel goeie mama's? Is mijn knuffeltijdperk afgelopen? Mag ik ook binnenkort nog een foute schijf van Black Eyed Peas opzwieren en dansen en zingen alsof ik mee op een podium sta? Is het dan nog ok om aan het begin van de lente, bij het zien van het eerste lieveheersbeestje te roepen "Kijk! Een Coccinella!" Of moet het allemaal wat meer in de plooi? Is het tijd om 'volwassen' te worden?  En hoe doe je dat dan? Gelukkig heb ik die vragen snel gelaten voor wat ze waren. **Onnozel doen is een van de basisingrediënten van ons gelukkige leventje.**  Op naar smoelentrekkerij, spastische dansjes, flauwe mopjes, gekke protjes en slappe lach x 3.

@@ -1,0 +1,11 @@
+---
+title: "Fotostickers, lifesavers voor vriendenboekpret"
+date: "2018-02-12"
+author: "crispkat"
+categories: ["Parenthood"]
+tags: ["foto's", "fotostickers", "smartphoto", "vriendenboekjes"]
+excerpt: ""
+coverImage: "/images/blog/image-300x300.jpg"
+---
+
+Vriendenboekjes, je vindt ze vandaag van zowat elk figuurtje. Bij Mats vielen ze binnen in de tweede kleuterklas. Bij Gitte de kindjes er wat vroeger bij. En zo leer ik dat dochterlief elke week wel een andere lievelingskleur heeft en kapster/politieagent/ikweethetni wil worden :) Tot voor kort had ik maar 1 probleem met de boekjes: de foto. Je ziet veelal drie oplossingen voor dat probleem: eec echt pasfotootje. Maar die zijn zo sip, want lachen is uit den boze op pasfoto’s weet je wel. Stel u voor een e-id met gelukkige mensen?! Oplossing nummer 2 zijn de gezichtjes die uit een grotere foto geknipt worden. Meestal zowat gek van shape want hallo die vakjes in die boekjes zijn klein. Oplossing 3: een fotootje uit de printer. Wat ook hier geen oplossing is want onze printer is zwart-wit en dat doet de sfeer van de foto’s ook vaak teniet. Dus kwam ik op het idee om fotostickertjes te maken. Je kent ze wel, van die ronde stickers op geschenkzakjes of suikerboondoosjes. Ze blijken ook perfect voor het papierensmoelenboek der kleuters. Op de site van [Smartphoto](https://www.smartphoto.be/nl/fotogeschenken/stickers-etiketten) vond ik een leuke en betaalbare oplossing om dit schooljaar zoet te zijn. Voor €5,95 bestel je er 24 full colour [sluitstickers](https://www.smartphoto.be/nl/fotogeschenken/sluitsticker) in een papieren afwerking. Net genoeg om de boekjes van een hele klasgroep van een foto te voorzien. Bovendien ook leuk om die kleine kleuterhandjes zelf hun foto te laten plakken. ![](/images/blog/image-300x300.jpg)![](/images/blog/image-1-300x300.jpg)￼ ![](file:///var/mobile/Containers/Data/Application/1DC8148A-CC12-46C1-BD97-0EECB2CEA245/Library/Caches/Media/thumbnail-tb2f21bc0-44fd-4ce0-a0bd-8ddc7d287c0c8-1334x1334.jpeg) _Deze blogpost kwam tot stand in samenwerking met [Smartphoto](https://www.smartphoto.be)_
