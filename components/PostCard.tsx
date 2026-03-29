@@ -1,6 +1,7 @@
 // components/PostCard.tsx
 import Link from "next/link";
 import type { PostMeta } from "@/lib/types";
+import { withBasePath } from "@/lib/utils";
 
 interface Props {
   post: PostMeta;
@@ -46,9 +47,9 @@ export default function PostCard({ post }: Props) {
   });
 
   return (
-    <article className="bg-white mb-8 relative" style={{ paddingTop: "3em", paddingBottom: "3em", paddingLeft: "5rem", paddingRight: "2rem" }}>
+    <article className="bg-white mb-8 relative">
       {/* Post-format badge — document icon (Sobe theme style) */}
-      <div className="absolute" style={{ left: "1.5rem", top: "-1.125rem" }}>
+      <div className="absolute z-10 left-0 translate-x-0 sm:-translate-x-1/2" style={{ top: "-1.125rem" }}>
         {/* Document badge: sharp top-left, rounded other corners */}
         <div
           className="w-14 h-14 flex items-center justify-center bg-[#a4aeb3]"
@@ -62,45 +63,60 @@ export default function PostCard({ post }: Props) {
         </div>
       </div>
 
-      {/* Category links */}
-      <div className="flex flex-wrap gap-3 mb-2">
-        {post.categories.map((cat) => {
-          const slug = cat.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
-          return (
-            <Link
-              key={cat}
-              href={`/category/${slug}`}
-              className="text-xs font-bold uppercase tracking-widest text-[#999594] hover:text-[#e57667] transition-colors"
-            >
-              {cat}
-            </Link>
-          );
-        })}
-      </div>
-
-      <Link href={`/posts/${post.slug}`}>
-        <h2 className="font-serif font-bold text-[#a4aeb3] text-2xl leading-snug hover:text-[#e57667] transition-colors mb-1">
-          {post.title || "(untitled)"}
-        </h2>
-      </Link>
-
-      <time
-        className="block text-xs font-bold uppercase tracking-widest text-[#999594] mb-4"
-        dateTime={post.date}
-      >
-        {date}
-      </time>
-
-      {post.excerpt && (
-        <p className="text-sm text-[#666] leading-relaxed mb-6">{post.excerpt}</p>
+      {/* Cover image — full card width, clipped to its own container */}
+      {post.coverImage && (
+        <Link href={`/posts/${post.slug}`} className="block overflow-hidden">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={withBasePath(post.coverImage)}
+            alt={post.title}
+            className="w-full object-cover max-h-52"
+          />
+        </Link>
       )}
 
-      <Link
-        href={`/posts/${post.slug}`}
-        className="inline-block border-2 border-[#999594] rounded-full text-[#999594] text-xs font-bold uppercase tracking-widest px-6 py-2 hover:bg-[#e57667] hover:border-[#e57667] hover:text-white transition-all"
-      >
-        Read more
-      </Link>
+      {/* Card content */}
+      <div style={{ paddingTop: "3em", paddingBottom: "3em", paddingLeft: "5rem", paddingRight: "2rem" }}>
+        {/* Category links */}
+        <div className="flex flex-wrap gap-3 mb-2">
+          {post.categories.map((cat) => {
+            const slug = cat.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+            return (
+              <Link
+                key={cat}
+                href={`/category/${slug}`}
+                className="text-xs font-bold uppercase tracking-widest text-[#999594] hover:text-[#e57667] transition-colors"
+              >
+                {cat}
+              </Link>
+            );
+          })}
+        </div>
+
+        <Link href={`/posts/${post.slug}`}>
+          <h2 className="font-serif font-bold text-[#a4aeb3] text-2xl leading-snug hover:text-[#e57667] transition-colors mb-1">
+            {post.title || "(untitled)"}
+          </h2>
+        </Link>
+
+        <time
+          className="block text-xs font-bold uppercase tracking-widest text-[#999594] mb-4"
+          dateTime={post.date}
+        >
+          {date}
+        </time>
+
+        {post.excerpt && (
+          <p className="text-sm text-[#666] leading-relaxed mb-6">{post.excerpt}</p>
+        )}
+
+        <Link
+          href={`/posts/${post.slug}`}
+          className="inline-block border-2 border-[#999594] rounded-full text-[#999594] text-xs font-bold uppercase tracking-widest px-6 py-2 hover:bg-[#e57667] hover:border-[#e57667] hover:text-white transition-all"
+        >
+          Read more
+        </Link>
+      </div>
     </article>
   );
 }

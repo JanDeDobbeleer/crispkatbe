@@ -1,14 +1,9 @@
 // app/posts/[slug]/page.tsx — individual blog post
-import { getPostBySlug, getAllSlugs, getAllPostMeta } from "@/lib/posts";
+import { getPostBySlug, getAllSlugs } from "@/lib/posts";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-
-const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
-
-function withBasePath(src: string): string {
-  return src.startsWith("/") ? `${basePath}${src}` : src;
-}
+import { withBasePath } from "@/lib/utils";
 
 export async function generateStaticParams() {
   return getAllSlugs().map((slug) => ({ slug }));
@@ -73,15 +68,6 @@ export default async function PostPage({
         <time dateTime={post.date}>{date}</time>
         {post.author && <span>&mdash; {post.author}</span>}
       </div>
-
-      {post.coverImage && (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img
-          src={withBasePath(post.coverImage)}
-          alt={post.title}
-          className="w-full rounded object-cover mb-8 max-h-80"
-        />
-      )}
 
       {/* Markdown content rendered as HTML */}
       <div
